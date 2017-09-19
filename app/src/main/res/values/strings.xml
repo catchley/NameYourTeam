@@ -3,140 +3,3467 @@
 
 
         <string-array name="adjectives">
-            <item>Young</item>
-            <item>Old</item>
-            <item>New</item>
-            <item>Large</item>
-            <item>Medium</item>
-            <item>Small</item>
-            <item>Little</item>
-            <item>Tiny</item>
-            <item>Huge</item>
+            <item>	aback 	</item>
+            <item>	abaft 	</item>
+            <item>	abandoned 	</item>
+            <item>	abashed 	</item>
+            <item>	aberrant 	</item>
+            <item>	abhorrent 	</item>
+            <item>	abiding 	</item>
+            <item>	abject 	</item>
+            <item>	ablaze 	</item>
+            <item>	able	</item>
+            <item>	abnormal 	</item>
+            <item>	aboard 	</item>
+            <item>	aboriginal 	</item>
+            <item>	abortive 	</item>
+            <item>	abounding 	</item>
+            <item>	abrasive 	</item>
+            <item>	abrupt 	</item>
+            <item>	absent 	</item>
+            <item>	absolute	</item>
+            <item>	absorbed 	</item>
+            <item>	absorbing 	</item>
+            <item>	abstracted 	</item>
+            <item>	absurd 	</item>
+            <item>	abundant	</item>
+            <item>	abusive 	</item>
+            <item>	academic	</item>
+            <item>	acceptable	</item>
+            <item>	accessible 	</item>
+            <item>	accidental 	</item>
+            <item>	acclaimed	</item>
+            <item>	accomplished	</item>
+            <item>	accurate	</item>
+            <item>	aching	</item>
+            <item>	acid	</item>
+            <item>	acidic	</item>
+            <item>	acoustic 	</item>
+            <item>	acrid 	</item>
+            <item>	acrobatic	</item>
+            <item>	active	</item>
+            <item>	actual	</item>
+            <item>	actually 	</item>
+            <item>	ad hoc 	</item>
+            <item>	adamant 	</item>
+            <item>	adaptable 	</item>
+            <item>	addicted 	</item>
+            <item>	adept	</item>
+            <item>	adhesive 	</item>
+            <item>	adjoining 	</item>
+            <item>	admirable	</item>
+            <item>	admired	</item>
+            <item>	adolescent	</item>
+            <item>	adorable	</item>
+            <item>	adored	</item>
+            <item>	advanced	</item>
+            <item>	adventurous	</item>
+            <item>	affectionate	</item>
+            <item>	afraid	</item>
+            <item>	aged	</item>
+            <item>	aggravating	</item>
+            <item>	aggressive	</item>
+            <item>	agile	</item>
+            <item>	agitated	</item>
+            <item>	agonizing	</item>
+            <item>	agreeable	</item>
+            <item>	ahead 	</item>
+            <item>	ajar	</item>
+            <item>	alarmed	</item>
+            <item>	alarming	</item>
+            <item>	alcoholic 	</item>
+            <item>	alert	</item>
+            <item>	alienated	</item>
+            <item>	alike 	</item>
+            <item>	alive	</item>
+            <item>	all	</item>
+            <item>	alleged 	</item>
+            <item>	alluring 	</item>
+            <item>	aloof 	</item>
+            <item>	altruistic	</item>
+            <item>	amazing	</item>
+            <item>	ambiguous 	</item>
+            <item>	ambitious	</item>
+            <item>	amiable	</item>
+            <item>	ample	</item>
+            <item>	amuck 	</item>
+            <item>	amused	</item>
+            <item>	amusing	</item>
+            <item>	anchored	</item>
+            <item>	ancient	</item>
+            <item>	ancient 	</item>
+            <item>	angelic	</item>
+            <item>	angry	</item>
+            <item>	angry 	</item>
+            <item>	anguished	</item>
+            <item>	animated	</item>
+            <item>	annoyed 	</item>
+            <item>	annoying	</item>
+            <item>	annual	</item>
+            <item>	another	</item>
+            <item>	antique	</item>
+            <item>	antsy	</item>
+            <item>	anxious 	</item>
+            <item>	any	</item>
+            <item>	apathetic	</item>
+            <item>	appetizing	</item>
+            <item>	apprehensive 	</item>
+            <item>	appropriate	</item>
+            <item>	apt	</item>
+            <item>	aquatic 	</item>
+            <item>	arctic	</item>
+            <item>	arid	</item>
+            <item>	aromatic 	</item>
+            <item>	arrogant 	</item>
+            <item>	artistic	</item>
+            <item>	ashamed	</item>
+            <item>	aspiring 	</item>
+            <item>	assorted 	</item>
+            <item>	assured	</item>
+            <item>	astonishing	</item>
+            <item>	athletic	</item>
+            <item>	attached	</item>
+            <item>	attentive	</item>
+            <item>	attractive	</item>
+            <item>	auspicious 	</item>
+            <item>	austere	</item>
+            <item>	authentic	</item>
+            <item>	authorized	</item>
+            <item>	automatic	</item>
+            <item>	available 	</item>
+            <item>	avaricious	</item>
+            <item>	average 	</item>
+            <item>	awake	</item>
+            <item>	aware	</item>
+            <item>	awesome	</item>
+            <item>	awful 	</item>
+            <item>	awkward	</item>
+            <item>	axiomatic	</item>
+            <item>	babyish	</item>
+            <item>	back	</item>
+            <item>	bad	</item>
+            <item>	baggy	</item>
+            <item>	barbarous 	</item>
+            <item>	bare	</item>
+            <item>	barren	</item>
+            <item>	bashful 	</item>
+            <item>	basic	</item>
+            <item>	batty	</item>
+            <item>	bawdy 	</item>
+            <item>	beautiful	</item>
+            <item>	beefy	</item>
+            <item>	befitting 	</item>
+            <item>	belated	</item>
+            <item>	belligerent 	</item>
+            <item>	beloved	</item>
+            <item>	beneficial	</item>
+            <item>	bent	</item>
+            <item>	berserk 	</item>
+            <item>	best	</item>
+            <item>	better	</item>
+            <item>	bewildered 	</item>
+            <item>	bewitched	</item>
+            <item>	big	</item>
+            <item>	big-hearted	</item>
+            <item>	billowy 	</item>
+            <item>	biodegradable	</item>
+            <item>	bite-sized	</item>
+            <item>	biting	</item>
+            <item>	bitter	</item>
+            <item>	bizarre 	</item>
+            <item>	black	</item>
+            <item>	black-and-white	</item>
+            <item>	bland	</item>
+            <item>	blank	</item>
+            <item>	blaring	</item>
+            <item>	bleak	</item>
+            <item>	blind	</item>
+            <item>	blissful	</item>
+            <item>	blond	</item>
+            <item>	bloody 	</item>
+            <item>	blue	</item>
+            <item>	blue-eyed 	</item>
+            <item>	blushing	</item>
+            <item>	bogus	</item>
+            <item>	boiling	</item>
+            <item>	bold	</item>
+            <item>	bony	</item>
+            <item>	boorish 	</item>
+            <item>	bored 	</item>
+            <item>	boring	</item>
+            <item>	bossy	</item>
+            <item>	both	</item>
+            <item>	bouncy	</item>
+            <item>	boundless 	</item>
+            <item>	bountiful	</item>
+            <item>	bowed	</item>
+            <item>	brainy 	</item>
+            <item>	brash 	</item>
+            <item>	brave	</item>
+            <item>	brawny 	</item>
+            <item>	breakable	</item>
+            <item>	breezy 	</item>
+            <item>	brief	</item>
+            <item>	bright	</item>
+            <item>	brilliant	</item>
+            <item>	brisk	</item>
+            <item>	broad 	</item>
+            <item>	broken	</item>
+            <item>	bronze	</item>
+            <item>	brown	</item>
+            <item>	bruised	</item>
+            <item>	bubbly	</item>
+            <item>	bulky	</item>
+            <item>	bumpy	</item>
+            <item>	buoyant	</item>
+            <item>	burdensome	</item>
+            <item>	burly	</item>
+            <item>	bustling	</item>
+            <item>	busy	</item>
+            <item>	buttery	</item>
+            <item>	buzzing	</item>
+            <item>	cagey	</item>
+            <item>	calculating	</item>
+            <item>	callous 	</item>
+            <item>	calm	</item>
+            <item>	candid	</item>
+            <item>	canine	</item>
+            <item>	capable 	</item>
+            <item>	capital	</item>
+            <item>	capricious 	</item>
+            <item>	carefree	</item>
+            <item>	careful	</item>
+            <item>	careless	</item>
+            <item>	caring	</item>
+            <item>	cautious 	</item>
+            <item>	cavernous	</item>
+            <item>	ceaseless 	</item>
+            <item>	celebrated	</item>
+            <item>	certain	</item>
+            <item>	changeable 	</item>
+            <item>	charming	</item>
+            <item>	cheap	</item>
+            <item>	cheeky	</item>
+            <item>	cheerful	</item>
+            <item>	cheery	</item>
+            <item>	chemical	</item>
+            <item>	chief	</item>
+            <item>	childlike 	</item>
+            <item>	chilly	</item>
+            <item>	chivalrous 	</item>
+            <item>	chubby 	</item>
+            <item>	chunky 	</item>
+            <item>	circular	</item>
+            <item>	clammy 	</item>
+            <item>	classic	</item>
+            <item>	classy 	</item>
+            <item>	clean	</item>
+            <item>	clear 	</item>
+            <item>	clear-cut	</item>
+            <item>	clever 	</item>
+            <item>	cloistered 	</item>
+            <item>	close	</item>
+            <item>	closed	</item>
+            <item>	cloudy 	</item>
+            <item>	clueless	</item>
+            <item>	clumsy	</item>
+            <item>	cluttered	</item>
+            <item>	coarse	</item>
+            <item>	coherent 	</item>
+            <item>	cold	</item>
+            <item>	colorful 	</item>
+            <item>	colorless	</item>
+            <item>	colossal	</item>
+            <item>	colossal 	</item>
+            <item>	combative 	</item>
+            <item>	comfortable 	</item>
+            <item>	common	</item>
+            <item>	compassionate	</item>
+            <item>	competent	</item>
+            <item>	complete	</item>
+            <item>	complex	</item>
+            <item>	complicated	</item>
+            <item>	composed	</item>
+            <item>	concerned	</item>
+            <item>	concrete	</item>
+            <item>	condemned 	</item>
+            <item>	condescending	</item>
+            <item>	confused	</item>
+            <item>	conscious	</item>
+            <item>	considerate	</item>
+            <item>	constant	</item>
+            <item>	contemplative	</item>
+            <item>	content	</item>
+            <item>	conventional	</item>
+            <item>	convincing	</item>
+            <item>	convoluted	</item>
+            <item>	cooing 	</item>
+            <item>	cooked	</item>
+            <item>	cool	</item>
+            <item>	cooperative	</item>
+            <item>	coordinated	</item>
+            <item>	corny	</item>
+            <item>	corrupt	</item>
+            <item>	costly	</item>
+            <item>	courageous 	</item>
+            <item>	courteous	</item>
+            <item>	cowardly 	</item>
+            <item>	crabby 	</item>
+            <item>	crafty	</item>
+            <item>	craven 	</item>
+            <item>	crazy	</item>
+            <item>	creamy	</item>
+            <item>	creative	</item>
+            <item>	creepy	</item>
+            <item>	criminal	</item>
+            <item>	crisp	</item>
+            <item>	critical	</item>
+            <item>	crooked	</item>
+            <item>	crowded 	</item>
+            <item>	cruel	</item>
+            <item>	crushing	</item>
+            <item>	cuddly	</item>
+            <item>	cultivated	</item>
+            <item>	cultured 	</item>
+            <item>	cumbersome	</item>
+            <item>	curious 	</item>
+            <item>	curly 	</item>
+            <item>	curved 	</item>
+            <item>	curvy	</item>
+            <item>	cut	</item>
+            <item>	cute	</item>
+            <item>	cylindrical	</item>
+            <item>	cynical	</item>
+            <item>	daffy 	</item>
+            <item>	daily 	</item>
+            <item>	damaged	</item>
+            <item>	damaging 	</item>
+            <item>	damp	</item>
+            <item>	dangerous 	</item>
+            <item>	dapper	</item>
+            <item>	dapper 	</item>
+            <item>	daring	</item>
+            <item>	dark	</item>
+            <item>	darling	</item>
+            <item>	dashing 	</item>
+            <item>	dazzling	</item>
+            <item>	dead 	</item>
+            <item>	deadly	</item>
+            <item>	deadpan 	</item>
+            <item>	deafening	</item>
+            <item>	dear	</item>
+            <item>	dearest	</item>
+            <item>	debonair	</item>
+            <item>	decayed	</item>
+            <item>	deceitful 	</item>
+            <item>	decent	</item>
+            <item>	decimal	</item>
+            <item>	decisive 	</item>
+            <item>	decorous 	</item>
+            <item>	deep 	</item>
+            <item>	deeply 	</item>
+            <item>	defeated 	</item>
+            <item>	defective 	</item>
+            <item>	defenseless	</item>
+            <item>	defensive	</item>
+            <item>	defiant	</item>
+            <item>	deficient	</item>
+            <item>	definite	</item>
+            <item>	delayed	</item>
+            <item>	delectable	</item>
+            <item>	delicate	</item>
+            <item>	delicious	</item>
+            <item>	delightful 	</item>
+            <item>	delirious	</item>
+            <item>	demanding	</item>
+            <item>	demonic 	</item>
+            <item>	dense	</item>
+            <item>	dental	</item>
+            <item>	dependable	</item>
+            <item>	dependent	</item>
+            <item>	depraved	</item>
+            <item>	depressed 	</item>
+            <item>	deranged 	</item>
+            <item>	descriptive	</item>
+            <item>	deserted	</item>
+            <item>	despicable	</item>
+            <item>	detailed	</item>
+            <item>	determined 	</item>
+            <item>	devilish 	</item>
+            <item>	devoted	</item>
+            <item>	didactic 	</item>
+            <item>	different	</item>
+            <item>	difficult	</item>
+            <item>	digital	</item>
+            <item>	dilapidated 	</item>
+            <item>	diligent	</item>
+            <item>	dim	</item>
+            <item>	diminutive	</item>
+            <item>	dimpled	</item>
+            <item>	dimwitted	</item>
+            <item>	direct	</item>
+            <item>	direful 	</item>
+            <item>	dirty	</item>
+            <item>	disagreeable 	</item>
+            <item>	disastrous	</item>
+            <item>	discreet 	</item>
+            <item>	discrete	</item>
+            <item>	disfigured	</item>
+            <item>	disguised	</item>
+            <item>	disgusted 	</item>
+            <item>	disgusting	</item>
+            <item>	dishonest	</item>
+            <item>	disillusioned 	</item>
+            <item>	disloyal	</item>
+            <item>	dismal	</item>
+            <item>	dispensable 	</item>
+            <item>	distant	</item>
+            <item>	distinct 	</item>
+            <item>	distorted	</item>
+            <item>	distraught	</item>
+            <item>	distressed	</item>
+            <item>	disturbed 	</item>
+            <item>	divergent 	</item>
+            <item>	dizzy	</item>
+            <item>	domineering 	</item>
+            <item>	dopey	</item>
+            <item>	doting 	</item>
+            <item>	double	</item>
+            <item>	doubtful 	</item>
+            <item>	downright	</item>
+            <item>	drab 	</item>
+            <item>	draconian	</item>
+            <item>	drafty	</item>
+            <item>	drained 	</item>
+            <item>	dramatic	</item>
+            <item>	dreary	</item>
+            <item>	droopy	</item>
+            <item>	drunk 	</item>
+            <item>	dry 	</item>
+            <item>	dual	</item>
+            <item>	dull	</item>
+            <item>	dull 	</item>
+            <item>	dusty 	</item>
+            <item>	dutiful	</item>
+            <item>	dynamic 	</item>
+            <item>	dysfunctional	</item>
+            <item>	each	</item>
+            <item>	eager	</item>
+            <item>	early	</item>
+            <item>	earnest	</item>
+            <item>	earsplitting 	</item>
+            <item>	earthy 	</item>
+            <item>	easy 	</item>
+            <item>	easy-going	</item>
+            <item>	eatable 	</item>
+            <item>	economic	</item>
+            <item>	ecstatic	</item>
+            <item>	edible	</item>
+            <item>	educated 	</item>
+            <item>	efficacious 	</item>
+            <item>	efficient 	</item>
+            <item>	eight 	</item>
+            <item>	elaborate	</item>
+            <item>	elastic	</item>
+            <item>	elated 	</item>
+            <item>	elderly	</item>
+            <item>	electric	</item>
+            <item>	elegant	</item>
+            <item>	elementary	</item>
+            <item>	elfin 	</item>
+            <item>	elite	</item>
+            <item>	elliptical	</item>
+            <item>	emaciated 	</item>
+            <item>	embarrassed 	</item>
+            <item>	embellished	</item>
+            <item>	eminent 	</item>
+            <item>	emotional	</item>
+            <item>	empty	</item>
+            <item>	enchanted	</item>
+            <item>	enchanting 	</item>
+            <item>	encouraging 	</item>
+            <item>	endurable 	</item>
+            <item>	energetic	</item>
+            <item>	enlightened	</item>
+            <item>	enormous	</item>
+            <item>	enraged	</item>
+            <item>	entertaining 	</item>
+            <item>	enthusiastic 	</item>
+            <item>	entire	</item>
+            <item>	envious	</item>
+            <item>	envious 	</item>
+            <item>	equable 	</item>
+            <item>	equal	</item>
+            <item>	equatorial	</item>
+            <item>	erect 	</item>
+            <item>	erratic 	</item>
+            <item>	essential	</item>
+            <item>	esteemed	</item>
+            <item>	ethereal 	</item>
+            <item>	ethical	</item>
+            <item>	euphoric	</item>
+            <item>	evanescent 	</item>
+            <item>	evasive 	</item>
+            <item>	even	</item>
+            <item>	evergreen	</item>
+            <item>	everlasting	</item>
+            <item>	every	</item>
+            <item>	evil	</item>
+            <item>	exalted	</item>
+            <item>	exasperated	</item>
+            <item>	excellent	</item>
+            <item>	excitable	</item>
+            <item>	excited 	</item>
+            <item>	exciting	</item>
+            <item>	exclusive	</item>
+            <item>	exemplary	</item>
+            <item>	exhausted	</item>
+            <item>	exhilarated 	</item>
+            <item>	exotic	</item>
+            <item>	expensive	</item>
+            <item>	experienced	</item>
+            <item>	expert	</item>
+            <item>	extensive	</item>
+            <item>	extra-large	</item>
+            <item>	extraneous	</item>
+            <item>	extra-small	</item>
+            <item>	extroverted	</item>
+            <item>	exuberant 	</item>
+            <item>	exultant	</item>
+            <item>	fabulous 	</item>
+            <item>	faded 	</item>
+            <item>	failing 	</item>
+            <item>	faint 	</item>
+            <item>	fair 	</item>
+            <item>	faithful 	</item>
+            <item>	fake 	</item>
+            <item>	fallacious 	</item>
+            <item>	false 	</item>
+            <item>	familiar 	</item>
+            <item>	famous 	</item>
+            <item>	fanatical 	</item>
+            <item>	fancy 	</item>
+            <item>	fantastic 	</item>
+            <item>	far 	</item>
+            <item>	faraway 	</item>
+            <item>	far-flung 	</item>
+            <item>	far-off 	</item>
+            <item>	fascinated 	</item>
+            <item>	fast 	</item>
+            <item>	fat 	</item>
+            <item>	fatal 	</item>
+            <item>	fatherly 	</item>
+            <item>	faulty 	</item>
+            <item>	favorable 	</item>
+            <item>	favorite 	</item>
+            <item>	fearful 	</item>
+            <item>	fearless 	</item>
+            <item>	feeble 	</item>
+            <item>	feigned 	</item>
+            <item>	feisty 	</item>
+            <item>	feline 	</item>
+            <item>	female 	</item>
+            <item>	feminine 	</item>
+            <item>	fertile 	</item>
+            <item>	festive 	</item>
+            <item>	few 	</item>
+            <item>	fickle 	</item>
+            <item>	fierce 	</item>
+            <item>	filthy 	</item>
+            <item>	fine 	</item>
+            <item>	finicky 	</item>
+            <item>	finished 	</item>
+            <item>	firm 	</item>
+            <item>	first 	</item>
+            <item>	firsthand 	</item>
+            <item>	fitting 	</item>
+            <item>	five 	</item>
+            <item>	fixed 	</item>
+            <item>	flagrant 	</item>
+            <item>	flaky 	</item>
+            <item>	flamboyant 	</item>
+            <item>	flashy 	</item>
+            <item>	flat 	</item>
+            <item>	flawed 	</item>
+            <item>	flawless 	</item>
+            <item>	flickering 	</item>
+            <item>	flimsy 	</item>
+            <item>	flippant 	</item>
+            <item>	floppy 	</item>
+            <item>	flowery 	</item>
+            <item>	flufy 	</item>
+            <item>	fluid 	</item>
+            <item>	flustered 	</item>
+            <item>	fluttering 	</item>
+            <item>	foamy 	</item>
+            <item>	focused 	</item>
+            <item>	fond 	</item>
+            <item>	foolhardy 	</item>
+            <item>	foolish 	</item>
+            <item>	forceful 	</item>
+            <item>	foregoing 	</item>
+            <item>	forgetful 	</item>
+            <item>	forked 	</item>
+            <item>	formal 	</item>
+            <item>	forsaken 	</item>
+            <item>	forthright 	</item>
+            <item>	fortunate 	</item>
+            <item>	four 	</item>
+            <item>	fragile 	</item>
+            <item>	fragrant 	</item>
+            <item>	frail 	</item>
+            <item>	frank 	</item>
+            <item>	frantic 	</item>
+            <item>	frayed 	</item>
+            <item>	free 	</item>
+            <item>	freezing 	</item>
+            <item>	French 	</item>
+            <item>	frequent 	</item>
+            <item>	fresh 	</item>
+            <item>	fretful 	</item>
+            <item>	friendly 	</item>
+            <item>	frightened 	</item>
+            <item>	frightening 	</item>
+            <item>	frigid 	</item>
+            <item>	frilly 	</item>
+            <item>	frivolous 	</item>
+            <item>	frizzy 	</item>
+            <item>	front 	</item>
+            <item>	frosty 	</item>
+            <item>	frothy 	</item>
+            <item>	frozen 	</item>
+            <item>	frugal 	</item>
+            <item>	fruitful 	</item>
+            <item>	frustrating 	</item>
+            <item>	full 	</item>
+            <item>	fumbling 	</item>
+            <item>	fumbling 	</item>
+            <item>	functional 	</item>
+            <item>	funny 	</item>
+            <item>	furry 	</item>
+            <item>	furtive 	</item>
+            <item>	fussy 	</item>
+            <item>	future 	</item>
+            <item>	futuristic 	</item>
+            <item>	fuzzy	</item>
+            <item>	gabby 	</item>
+            <item>	gainful 	</item>
+            <item>	gamy 	</item>
+            <item>	gaping 	</item>
+            <item>	gargantuan 	</item>
+            <item>	garrulous 	</item>
+            <item>	gaseous 	</item>
+            <item>	gaudy 	</item>
+            <item>	general 	</item>
+            <item>	general 	</item>
+            <item>	generous 	</item>
+            <item>	gentle 	</item>
+            <item>	genuine 	</item>
+            <item>	ghastly 	</item>
+            <item>	giant 	</item>
+            <item>	giddy 	</item>
+            <item>	gifted 	</item>
+            <item>	gigantic 	</item>
+            <item>	giving 	</item>
+            <item>	glamorous 	</item>
+            <item>	glaring 	</item>
+            <item>	glass 	</item>
+            <item>	gleaming 	</item>
+            <item>	gleeful 	</item>
+            <item>	glib 	</item>
+            <item>	glistening 	</item>
+            <item>	glittering 	</item>
+            <item>	gloomy 	</item>
+            <item>	glorious 	</item>
+            <item>	glossy 	</item>
+            <item>	glum 	</item>
+            <item>	godly 	</item>
+            <item>	golden 	</item>
+            <item>	good 	</item>
+            <item>	good-natured 	</item>
+            <item>	goofy 	</item>
+            <item>	gorgeous 	</item>
+            <item>	graceful 	</item>
+            <item>	gracious 	</item>
+            <item>	grand 	</item>
+            <item>	grandiose 	</item>
+            <item>	grandiose 	</item>
+            <item>	granular 	</item>
+            <item>	grateful 	</item>
+            <item>	gratis 	</item>
+            <item>	grave 	</item>
+            <item>	gray 	</item>
+            <item>	greasy 	</item>
+            <item>	great 	</item>
+            <item>	greedy 	</item>
+            <item>	green 	</item>
+            <item>	gregarious 	</item>
+            <item>	grey 	</item>
+            <item>	grieving 	</item>
+            <item>	grim 	</item>
+            <item>	grimy 	</item>
+            <item>	gripping 	</item>
+            <item>	grizzled 	</item>
+            <item>	groovy 	</item>
+            <item>	gross 	</item>
+            <item>	grotesque 	</item>
+            <item>	grouchy 	</item>
+            <item>	grounded 	</item>
+            <item>	growing 	</item>
+            <item>	growling 	</item>
+            <item>	grown 	</item>
+            <item>	grubby 	</item>
+            <item>	gruesome 	</item>
+            <item>	grumpy 	</item>
+            <item>	guarded 	</item>
+            <item>	guiltless 	</item>
+            <item>	guilty 	</item>
+            <item>	gullible 	</item>
+            <item>	gummy 	</item>
+            <item>	gusty 	</item>
+            <item>	guttural	</item>
+            <item>	habitual 	</item>
+            <item>	hairy 	</item>
+            <item>	half 	</item>
+            <item>	half 	</item>
+            <item>	hallowed 	</item>
+            <item>	halting 	</item>
+            <item>	handmade 	</item>
+            <item>	handsome 	</item>
+            <item>	handsomely 	</item>
+            <item>	handy 	</item>
+            <item>	hanging 	</item>
+            <item>	hapless 	</item>
+            <item>	happy 	</item>
+            <item>	happy-go-lucky 	</item>
+            <item>	hard 	</item>
+            <item>	hard-to-find 	</item>
+            <item>	harebrained 	</item>
+            <item>	harmful 	</item>
+            <item>	harmless 	</item>
+            <item>	harmonious 	</item>
+            <item>	harsh 	</item>
+            <item>	hasty 	</item>
+            <item>	hateful 	</item>
+            <item>	haunting 	</item>
+            <item>	heady 	</item>
+            <item>	healthy 	</item>
+            <item>	heartbreaking 	</item>
+            <item>	heartfelt 	</item>
+            <item>	hearty 	</item>
+            <item>	heavenly 	</item>
+            <item>	heavy 	</item>
+            <item>	hefty 	</item>
+            <item>	hellish 	</item>
+            <item>	helpful 	</item>
+            <item>	helpless 	</item>
+            <item>	hesitant 	</item>
+            <item>	hidden 	</item>
+            <item>	hideous 	</item>
+            <item>	high 	</item>
+            <item>	highfalutin 	</item>
+            <item>	high-level 	</item>
+            <item>	high-pitched 	</item>
+            <item>	hilarious 	</item>
+            <item>	hissing 	</item>
+            <item>	historical 	</item>
+            <item>	hoarse 	</item>
+            <item>	holistic 	</item>
+            <item>	hollow 	</item>
+            <item>	homeless 	</item>
+            <item>	homely 	</item>
+            <item>	honest 	</item>
+            <item>	honorable 	</item>
+            <item>	honored 	</item>
+            <item>	hopeful 	</item>
+            <item>	horrible 	</item>
+            <item>	horrific 	</item>
+            <item>	hospitable 	</item>
+            <item>	hot 	</item>
+            <item>	huge 	</item>
+            <item>	hulking 	</item>
+            <item>	humble 	</item>
+            <item>	humdrum 	</item>
+            <item>	humiliating 	</item>
+            <item>	humming 	</item>
+            <item>	humongous 	</item>
+            <item>	humorous 	</item>
+            <item>	hungry 	</item>
+            <item>	hurried 	</item>
+            <item>	hurt 	</item>
+            <item>	hurtful 	</item>
+            <item>	hushed 	</item>
+            <item>	husky 	</item>
+            <item>	hypnotic 	</item>
+            <item>	hysterical	</item>
+            <item>	icky	</item>
+            <item>	icy	</item>
+            <item>	ideal	</item>
+            <item>	ideal	</item>
+            <item>	idealistic	</item>
+            <item>	identical	</item>
+            <item>	idiotic	</item>
+            <item>	idle	</item>
+            <item>	idolized	</item>
+            <item>	ignorant	</item>
+            <item>	ill 	</item>
+            <item>	illegal	</item>
+            <item>	ill-fated	</item>
+            <item>	ill-informed	</item>
+            <item>	illiterate	</item>
+            <item>	illustrious	</item>
+            <item>	imaginary 	</item>
+            <item>	imaginative	</item>
+            <item>	immaculate	</item>
+            <item>	immaterial	</item>
+            <item>	immediate	</item>
+            <item>	immense	</item>
+            <item>	imminent 	</item>
+            <item>	impartial	</item>
+            <item>	impassioned	</item>
+            <item>	impeccable	</item>
+            <item>	imperfect	</item>
+            <item>	imperturbable	</item>
+            <item>	impish	</item>
+            <item>	impolite	</item>
+            <item>	important	</item>
+            <item>	imported 	</item>
+            <item>	impossible 	</item>
+            <item>	impractical	</item>
+            <item>	impressionable	</item>
+            <item>	impressive	</item>
+            <item>	improbable	</item>
+            <item>	impure	</item>
+            <item>	inborn	</item>
+            <item>	incandescent 	</item>
+            <item>	incomparable	</item>
+            <item>	incompatible	</item>
+            <item>	incompetent 	</item>
+            <item>	incomplete	</item>
+            <item>	inconclusive 	</item>
+            <item>	inconsequential	</item>
+            <item>	incredible	</item>
+            <item>	indelible	</item>
+            <item>	indolent	</item>
+            <item>	industrious 	</item>
+            <item>	inexpensive	</item>
+            <item>	inexperienced	</item>
+            <item>	infamous	</item>
+            <item>	infantile	</item>
+            <item>	infatuated	</item>
+            <item>	inferior	</item>
+            <item>	infinite	</item>
+            <item>	informal	</item>
+            <item>	innate 	</item>
+            <item>	innocent	</item>
+            <item>	inquisitive 	</item>
+            <item>	insecure	</item>
+            <item>	insidious	</item>
+            <item>	insignificant	</item>
+            <item>	insistent	</item>
+            <item>	instinctive 	</item>
+            <item>	instructive	</item>
+            <item>	insubstantial	</item>
+            <item>	intelligent	</item>
+            <item>	intent	</item>
+            <item>	intentional	</item>
+            <item>	interesting	</item>
+            <item>	internal	</item>
+            <item>	international	</item>
+            <item>	intrepid	</item>
+            <item>	intrigued	</item>
+            <item>	invincible 	</item>
+            <item>	irate 	</item>
+            <item>	ironclad	</item>
+            <item>	irresponsible	</item>
+            <item>	irritable	</item>
+            <item>	irritating	</item>
+            <item>	itchy	</item>
+            <item>	jaded	</item>
+            <item>	jagged	</item>
+            <item>	jam-packed	</item>
+            <item>	jaunty	</item>
+            <item>	jazzy 	</item>
+            <item>	jealous	</item>
+            <item>	jittery	</item>
+            <item>	jobless 	</item>
+            <item>	joint	</item>
+            <item>	jolly 	</item>
+            <item>	jovial	</item>
+            <item>	joyful	</item>
+            <item>	joyous	</item>
+            <item>	jubilant	</item>
+            <item>	judicious 	</item>
+            <item>	juicy	</item>
+            <item>	jumbled 	</item>
+            <item>	jumbo	</item>
+            <item>	jumpy	</item>
+            <item>	jumpy	</item>
+            <item>	junior	</item>
+            <item>	juvenile	</item>
+            <item>	kaleidoscopic	</item>
+            <item>	kaput 	</item>
+            <item>	keen	</item>
+            <item>	key	</item>
+            <item>	kind	</item>
+            <item>	kindhearted	</item>
+            <item>	kindly	</item>
+            <item>	klutzy	</item>
+            <item>	knobby	</item>
+            <item>	knotty	</item>
+            <item>	knowing	</item>
+            <item>	knowledgeable	</item>
+            <item>	known	</item>
+            <item>	kooky	</item>
+            <item>	kosher	</item>
+            <item>	labored 	</item>
+            <item>	lackadaisical 	</item>
+            <item>	lacking 	</item>
+            <item>	lame	</item>
+            <item>	lame	</item>
+            <item>	lamentable 	</item>
+            <item>	languid 	</item>
+            <item>	lanky	</item>
+            <item>	large	</item>
+            <item>	last	</item>
+            <item>	lasting	</item>
+            <item>	late	</item>
+            <item>	laughable 	</item>
+            <item>	lavish	</item>
+            <item>	lawful	</item>
+            <item>	lazy	</item>
+            <item>	leading	</item>
+            <item>	leafy	</item>
+            <item>	lean	</item>
+            <item>	learned 	</item>
+            <item>	left	</item>
+            <item>	legal	</item>
+            <item>	legitimate	</item>
+            <item>	lethal 	</item>
+            <item>	level 	</item>
+            <item>	lewd 	</item>
+            <item>	light	</item>
+            <item>	lighthearted	</item>
+            <item>	likable	</item>
+            <item>	like	</item>
+            <item>	likeable 	</item>
+            <item>	likely	</item>
+            <item>	limited	</item>
+            <item>	limp	</item>
+            <item>	limping	</item>
+            <item>	linear	</item>
+            <item>	lined	</item>
+            <item>	liquid	</item>
+            <item>	literate 	</item>
+            <item>	little	</item>
+            <item>	live	</item>
+            <item>	lively	</item>
+            <item>	livid	</item>
+            <item>	living	</item>
+            <item>	loathsome	</item>
+            <item>	lone	</item>
+            <item>	lonely 	</item>
+            <item>	long	</item>
+            <item>	longing 	</item>
+            <item>	long-term	</item>
+            <item>	loose	</item>
+            <item>	lopsided 	</item>
+            <item>	lost	</item>
+            <item>	loud 	</item>
+            <item>	loutish 	</item>
+            <item>	lovable	</item>
+            <item>	lovely 	</item>
+            <item>	loving	</item>
+            <item>	low 	</item>
+            <item>	lowly 	</item>
+            <item>	loyal	</item>
+            <item>	lucky 	</item>
+            <item>	ludicrous 	</item>
+            <item>	lumbering	</item>
+            <item>	luminous	</item>
+            <item>	lumpy	</item>
+            <item>	lush 	</item>
+            <item>	lustrous	</item>
+            <item>	luxuriant 	</item>
+            <item>	luxurious	</item>
+            <item>	lying 	</item>
+            <item>	lyrical	</item>
+            <item>	macabre 	</item>
+            <item>	macho 	</item>
+            <item>	mad	</item>
+            <item>	maddening 	</item>
+            <item>	made-up	</item>
+            <item>	madly 	</item>
+            <item>	magenta	</item>
+            <item>	magical 	</item>
+            <item>	magnificent	</item>
+            <item>	majestic	</item>
+            <item>	major	</item>
+            <item>	makeshift 	</item>
+            <item>	male	</item>
+            <item>	malicious 	</item>
+            <item>	mammoth	</item>
+            <item>	maniacal 	</item>
+            <item>	many	</item>
+            <item>	marked 	</item>
+            <item>	married	</item>
+            <item>	marvelous	</item>
+            <item>	masculine	</item>
+            <item>	massive	</item>
+            <item>	material	</item>
+            <item>	materialistic 	</item>
+            <item>	mature	</item>
+            <item>	meager	</item>
+            <item>	mealy	</item>
+            <item>	mean	</item>
+            <item>	measly	</item>
+            <item>	meaty	</item>
+            <item>	medical	</item>
+            <item>	mediocre	</item>
+            <item>	medium	</item>
+            <item>	meek	</item>
+            <item>	melancholy	</item>
+            <item>	mellow	</item>
+            <item>	melodic 	</item>
+            <item>	melted	</item>
+            <item>	memorable	</item>
+            <item>	menacing	</item>
+            <item>	merciful 	</item>
+            <item>	mere 	</item>
+            <item>	merry	</item>
+            <item>	messy	</item>
+            <item>	metallic	</item>
+            <item>	mighty	</item>
+            <item>	mild	</item>
+            <item>	military	</item>
+            <item>	milky	</item>
+            <item>	mindless	</item>
+            <item>	miniature	</item>
+            <item>	minor	</item>
+            <item>	minty	</item>
+            <item>	minute	</item>
+            <item>	miscreant 	</item>
+            <item>	miserable	</item>
+            <item>	miserly	</item>
+            <item>	misguided	</item>
+            <item>	mistaken	</item>
+            <item>	misty	</item>
+            <item>	mixed	</item>
+            <item>	moaning 	</item>
+            <item>	modern	</item>
+            <item>	modest	</item>
+            <item>	moist	</item>
+            <item>	moldy 	</item>
+            <item>	momentous	</item>
+            <item>	monstrous	</item>
+            <item>	monthly	</item>
+            <item>	monumental	</item>
+            <item>	moody	</item>
+            <item>	moral	</item>
+            <item>	mortified 	</item>
+            <item>	motherly	</item>
+            <item>	motionless 	</item>
+            <item>	mountainous	</item>
+            <item>	muddled	</item>
+            <item>	muddy	</item>
+            <item>	muffled	</item>
+            <item>	multicolored	</item>
+            <item>	mundane	</item>
+            <item>	mundane	</item>
+            <item>	murky	</item>
+            <item>	mushy	</item>
+            <item>	musty	</item>
+            <item>	mute 	</item>
+            <item>	muted	</item>
+            <item>	mysterious	</item>
+            <item>	naive	</item>
+            <item>	nappy 	</item>
+            <item>	narrow	</item>
+            <item>	nasty	</item>
+            <item>	natural	</item>
+            <item>	naughty 	</item>
+            <item>	nauseating 	</item>
+            <item>	nautical	</item>
+            <item>	near	</item>
+            <item>	neat	</item>
+            <item>	nebulous 	</item>
+            <item>	necessary	</item>
+            <item>	needless 	</item>
+            <item>	needy 	</item>
+            <item>	negative	</item>
+            <item>	neglected	</item>
+            <item>	negligible	</item>
+            <item>	neighboring	</item>
+            <item>	neighborly 	</item>
+            <item>	nervous	</item>
+            <item>	nervous 	</item>
+            <item>	new 	</item>
+            <item>	next	</item>
+            <item>	nice	</item>
+            <item>	nice	</item>
+            <item>	nifty 	</item>
+            <item>	nimble	</item>
+            <item>	nine	</item>
+            <item>	nippy	</item>
+            <item>	nocturnal	</item>
+            <item>	noiseless 	</item>
+            <item>	noisy 	</item>
+            <item>	nonchalant 	</item>
+            <item>	nondescript	</item>
+            <item>	nonsensical 	</item>
+            <item>	nonstop 	</item>
+            <item>	normal	</item>
+            <item>	nostalgic 	</item>
+            <item>	nosy	</item>
+            <item>	notable	</item>
+            <item>	noted	</item>
+            <item>	noteworthy	</item>
+            <item>	novel	</item>
+            <item>	noxious	</item>
+            <item>	null 	</item>
+            <item>	numb	</item>
+            <item>	numberless 	</item>
+            <item>	numerous	</item>
+            <item>	nutritious	</item>
+            <item>	nutty	</item>
+            <item>	oafish 	</item>
+            <item>	obedient 	</item>
+            <item>	obeisant 	</item>
+            <item>	obese	</item>
+            <item>	oblivious	</item>
+            <item>	oblong	</item>
+            <item>	obnoxious 	</item>
+            <item>	obscene 	</item>
+            <item>	obsequious 	</item>
+            <item>	observant 	</item>
+            <item>	obsolete 	</item>
+            <item>	obtainable 	</item>
+            <item>	obvious	</item>
+            <item>	occasional	</item>
+            <item>	oceanic 	</item>
+            <item>	odd	</item>
+            <item>	oddball	</item>
+            <item>	offbeat	</item>
+            <item>	offensive	</item>
+            <item>	official	</item>
+            <item>	oily	</item>
+            <item>	old	</item>
+            <item>	old-fashioned	</item>
+            <item>	omniscient 	</item>
+            <item>	one 	</item>
+            <item>	onerous 	</item>
+            <item>	only	</item>
+            <item>	open	</item>
+            <item>	opposite	</item>
+            <item>	optimal	</item>
+            <item>	optimistic	</item>
+            <item>	opulent	</item>
+            <item>	orange	</item>
+            <item>	orderly	</item>
+            <item>	ordinary	</item>
+            <item>	organic	</item>
+            <item>	original	</item>
+            <item>	ornate	</item>
+            <item>	ornery	</item>
+            <item>	ossified 	</item>
+            <item>	other	</item>
+            <item>	our	</item>
+            <item>	outgoing	</item>
+            <item>	outlandish	</item>
+            <item>	outlying	</item>
+            <item>	outrageous	</item>
+            <item>	outstanding	</item>
+            <item>	oval	</item>
+            <item>	overconfident 	</item>
+            <item>	overcooked	</item>
+            <item>	overdue	</item>
+            <item>	overjoyed	</item>
+            <item>	overlooked	</item>
+            <item>	overrated 	</item>
+            <item>	overt 	</item>
+            <item>	overwrought	</item>
+            <item>	painful 	</item>
+            <item>	painstaking 	</item>
+            <item>	palatable	</item>
+            <item>	pale	</item>
+            <item>	paltry	</item>
+            <item>	panicky 	</item>
+            <item>	panoramic 	</item>
+            <item>	parallel	</item>
+            <item>	parched 	</item>
+            <item>	parsimonious 	</item>
+            <item>	partial	</item>
+            <item>	passionate	</item>
+            <item>	past	</item>
+            <item>	pastel	</item>
+            <item>	pastoral 	</item>
+            <item>	pathetic 	</item>
+            <item>	peaceful	</item>
+            <item>	penitent 	</item>
+            <item>	peppery	</item>
+            <item>	perfect	</item>
+            <item>	perfumed	</item>
+            <item>	periodic 	</item>
+            <item>	perky	</item>
+            <item>	permissible 	</item>
+            <item>	perpetual 	</item>
+            <item>	perplexed	</item>
+            <item>	personal	</item>
+            <item>	pertinent	</item>
+            <item>	pesky	</item>
+            <item>	pessimistic	</item>
+            <item>	petite 	</item>
+            <item>	petty	</item>
+            <item>	petty 	</item>
+            <item>	phobic 	</item>
+            <item>	phony	</item>
+            <item>	physical	</item>
+            <item>	picayune	</item>
+            <item>	piercing	</item>
+            <item>	pink	</item>
+            <item>	piquant 	</item>
+            <item>	pitiful	</item>
+            <item>	placid 	</item>
+            <item>	plain 	</item>
+            <item>	plaintive	</item>
+            <item>	plant 	</item>
+            <item>	plastic	</item>
+            <item>	plausible 	</item>
+            <item>	playful	</item>
+            <item>	pleasant 	</item>
+            <item>	pleased	</item>
+            <item>	pleasing	</item>
+            <item>	plucky 	</item>
+            <item>	plump	</item>
+            <item>	plush	</item>
+            <item>	pointed	</item>
+            <item>	pointless	</item>
+            <item>	poised	</item>
+            <item>	polished	</item>
+            <item>	polite	</item>
+            <item>	political	</item>
+            <item>	pompous 	</item>
+            <item>	poor	</item>
+            <item>	popular	</item>
+            <item>	portly	</item>
+            <item>	posh	</item>
+            <item>	positive	</item>
+            <item>	possessive 	</item>
+            <item>	possible	</item>
+            <item>	potable	</item>
+            <item>	powerful	</item>
+            <item>	powerless	</item>
+            <item>	practical	</item>
+            <item>	precious	</item>
+            <item>	premium 	</item>
+            <item>	present	</item>
+            <item>	present	</item>
+            <item>	prestigious	</item>
+            <item>	pretty 	</item>
+            <item>	previous	</item>
+            <item>	pricey	</item>
+            <item>	prickly	</item>
+            <item>	primary	</item>
+            <item>	prime	</item>
+            <item>	pristine	</item>
+            <item>	private	</item>
+            <item>	prize	</item>
+            <item>	probable	</item>
+            <item>	productive	</item>
+            <item>	profitable	</item>
+            <item>	profuse 	</item>
+            <item>	proper	</item>
+            <item>	protective 	</item>
+            <item>	proud	</item>
+            <item>	prudent	</item>
+            <item>	psychedelic 	</item>
+            <item>	psychotic 	</item>
+            <item>	public	</item>
+            <item>	puffy 	</item>
+            <item>	pumped	</item>
+            <item>	punctual	</item>
+            <item>	pungent	</item>
+            <item>	puny	</item>
+            <item>	pure	</item>
+            <item>	purple	</item>
+            <item>	purring 	</item>
+            <item>	pushy	</item>
+            <item>	pushy	</item>
+            <item>	putrid	</item>
+            <item>	puzzled	</item>
+            <item>	puzzling	</item>
+            <item>	quack 	</item>
+            <item>	quaint	</item>
+            <item>	quaint 	</item>
+            <item>	qualified	</item>
+            <item>	quarrelsome 	</item>
+            <item>	quarterly	</item>
+            <item>	queasy	</item>
+            <item>	querulous	</item>
+            <item>	questionable	</item>
+            <item>	quick	</item>
+            <item>	quickest	</item>
+            <item>	quick-witted	</item>
+            <item>	quiet	</item>
+            <item>	quintessential	</item>
+            <item>	quirky	</item>
+            <item>	quixotic	</item>
+            <item>	quixotic 	</item>
+            <item>	quizzical	</item>
+            <item>	rabid 	</item>
+            <item>	racial 	</item>
+            <item>	radiant	</item>
+            <item>	ragged	</item>
+            <item>	rainy	</item>
+            <item>	rambunctious 	</item>
+            <item>	rampant 	</item>
+            <item>	rapid	</item>
+            <item>	rare	</item>
+            <item>	rash	</item>
+            <item>	raspy 	</item>
+            <item>	ratty 	</item>
+            <item>	raw	</item>
+            <item>	ready	</item>
+            <item>	real 	</item>
+            <item>	realistic	</item>
+            <item>	reasonable	</item>
+            <item>	rebel 	</item>
+            <item>	recent	</item>
+            <item>	receptive 	</item>
+            <item>	reckless	</item>
+            <item>	recondite 	</item>
+            <item>	rectangular	</item>
+            <item>	red	</item>
+            <item>	redundant 	</item>
+            <item>	reflecting	</item>
+            <item>	reflective 	</item>
+            <item>	regal	</item>
+            <item>	regular	</item>
+            <item>	reliable	</item>
+            <item>	relieved 	</item>
+            <item>	remarkable	</item>
+            <item>	reminiscent 	</item>
+            <item>	remorseful	</item>
+            <item>	remote	</item>
+            <item>	repentant	</item>
+            <item>	repulsive	</item>
+            <item>	required	</item>
+            <item>	resolute 	</item>
+            <item>	resonant 	</item>
+            <item>	respectful	</item>
+            <item>	responsible	</item>
+            <item>	responsive	</item>
+            <item>	revolving	</item>
+            <item>	rewarding	</item>
+            <item>	rhetorical 	</item>
+            <item>	rich	</item>
+            <item>	right	</item>
+            <item>	righteous 	</item>
+            <item>	rightful 	</item>
+            <item>	rigid	</item>
+            <item>	ringed	</item>
+            <item>	ripe	</item>
+            <item>	ritzy 	</item>
+            <item>	roasted	</item>
+            <item>	robust 	</item>
+            <item>	romantic 	</item>
+            <item>	roomy 	</item>
+            <item>	rosy	</item>
+            <item>	rotating	</item>
+            <item>	rotten	</item>
+            <item>	rotund	</item>
+            <item>	rough	</item>
+            <item>	round 	</item>
+            <item>	rowdy	</item>
+            <item>	royal 	</item>
+            <item>	rubbery	</item>
+            <item>	ruddy 	</item>
+            <item>	rude	</item>
+            <item>	rundown	</item>
+            <item>	runny	</item>
+            <item>	rural 	</item>
+            <item>	rustic  rusty	</item>
+            <item>	ruthless	</item>
+            <item>	sable 	</item>
+            <item>	sad	</item>
+            <item>	safe	</item>
+            <item>	salty	</item>
+            <item>	same	</item>
+            <item>	sandy	</item>
+            <item>	sane	</item>
+            <item>	sarcastic	</item>
+            <item>	sardonic	</item>
+            <item>	sassy 	</item>
+            <item>	satisfied	</item>
+            <item>	satisfying 	</item>
+            <item>	savory 	</item>
+            <item>	scaly	</item>
+            <item>	scandalous	</item>
+            <item>	scant 	</item>
+            <item>	scarce	</item>
+            <item>	scared	</item>
+            <item>	scary 	</item>
+            <item>	scattered	</item>
+            <item>	scented	</item>
+            <item>	scholarly	</item>
+            <item>	scientific 	</item>
+            <item>	scintillating 	</item>
+            <item>	scornful	</item>
+            <item>	scratchy	</item>
+            <item>	scrawny	</item>
+            <item>	screeching 	</item>
+            <item>	second	</item>
+            <item>	secondary	</item>
+            <item>	second-hand	</item>
+            <item>	secret	</item>
+            <item>	secretive 	</item>
+            <item>	sedate 	</item>
+            <item>	seemly 	</item>
+            <item>	selective 	</item>
+            <item>	self-assured	</item>
+            <item>	selfish 	</item>
+            <item>	self-reliant	</item>
+            <item>	sentimental	</item>
+            <item>	separate	</item>
+            <item>	serene	</item>
+            <item>	serious	</item>
+            <item>	serpentine	</item>
+            <item>	several	</item>
+            <item>	severe	</item>
+            <item>	shabby	</item>
+            <item>	shadowy	</item>
+            <item>	shady	</item>
+            <item>	shaggy	</item>
+            <item>	shaky	</item>
+            <item>	shallow	</item>
+            <item>	shameful	</item>
+            <item>	shameless	</item>
+            <item>	sharp	</item>
+            <item>	shimmering	</item>
+            <item>	shiny	</item>
+            <item>	shivering	</item>
+            <item>	shocked	</item>
+            <item>	shocking	</item>
+            <item>	shoddy	</item>
+            <item>	short	</item>
+            <item>	short-term	</item>
+            <item>	showy	</item>
+            <item>	shrill	</item>
+            <item>	shut	</item>
+            <item>	shy	</item>
+            <item>	sick	</item>
+            <item>	silent 	</item>
+            <item>	silky	</item>
+            <item>	silly 	</item>
+            <item>	silver	</item>
+            <item>	similar	</item>
+            <item>	simple	</item>
+            <item>	simplistic	</item>
+            <item>	sincere 	</item>
+            <item>	sinful	</item>
+            <item>	single	</item>
+            <item>	six 	</item>
+            <item>	sizzling	</item>
+            <item>	skeletal	</item>
+            <item>	skillful 	</item>
+            <item>	skinny 	</item>
+            <item>	sleepy 	</item>
+            <item>	slight	</item>
+            <item>	slim	</item>
+            <item>	slimy	</item>
+            <item>	slippery	</item>
+            <item>	sloppy 	</item>
+            <item>	slow	</item>
+            <item>	slushy	</item>
+            <item>	small	</item>
+            <item>	smarmy	</item>
+            <item>	smart	</item>
+            <item>	smelly 	</item>
+            <item>	smiling 	</item>
+            <item>	smoggy	</item>
+            <item>	smooth	</item>
+            <item>	smug	</item>
+            <item>	snappy	</item>
+            <item>	snarling	</item>
+            <item>	sneaky	</item>
+            <item>	sniveling	</item>
+            <item>	snobbish 	</item>
+            <item>	snoopy	</item>
+            <item>	snotty 	</item>
+            <item>	sociable	</item>
+            <item>	soft	</item>
+            <item>	soggy 	</item>
+            <item>	solid	</item>
+            <item>	somber 	</item>
+            <item>	some	</item>
+            <item>	sophisticated	</item>
+            <item>	sordid 	</item>
+            <item>	sore	</item>
+            <item>	sorrowful	</item>
+            <item>	soulful	</item>
+            <item>	soupy	</item>
+            <item>	sour	</item>
+            <item>	sour	</item>
+            <item>	Spanish	</item>
+            <item>	sparkling	</item>
+            <item>	sparse	</item>
+            <item>	special	</item>
+            <item>	specific	</item>
+            <item>	spectacular	</item>
+            <item>	speedy	</item>
+            <item>	spherical	</item>
+            <item>	spicy	</item>
+            <item>	spiffy	</item>
+            <item>	spiky	</item>
+            <item>	spirited	</item>
+            <item>	spiritual 	</item>
+            <item>	spiteful	</item>
+            <item>	splendid	</item>
+            <item>	spooky 	</item>
+            <item>	spotless	</item>
+            <item>	spotted	</item>
+            <item>	spotty	</item>
+            <item>	spry	</item>
+            <item>	spurious 	</item>
+            <item>	squalid 	</item>
+            <item>	square	</item>
+            <item>	squeaky	</item>
+            <item>	squealing 	</item>
+            <item>	squeamish 	</item>
+            <item>	squiggly	</item>
+            <item>	stable	</item>
+            <item>	staid	</item>
+            <item>	stained	</item>
+            <item>	staking 	</item>
+            <item>	stale	</item>
+            <item>	standard	</item>
+            <item>	standing 	</item>
+            <item>	starchy	</item>
+            <item>	stark	</item>
+            <item>	starry	</item>
+            <item>	statuesque 	</item>
+            <item>	steadfast 	</item>
+            <item>	steady	</item>
+            <item>	steel	</item>
+            <item>	steep	</item>
+            <item>	stereotyped 	</item>
+            <item>	sticky	</item>
+            <item>	stiff	</item>
+            <item>	stimulating	</item>
+            <item>	stingy	</item>
+            <item>	stormy	</item>
+            <item>	stout	</item>
+            <item>	straight	</item>
+            <item>	strange 	</item>
+            <item>	strict	</item>
+            <item>	strident	</item>
+            <item>	striking	</item>
+            <item>	striped	</item>
+            <item>	strong	</item>
+            <item>	studious	</item>
+            <item>	stunning	</item>
+            <item>	stunning	</item>
+            <item>	stupendous	</item>
+            <item>	stupid	</item>
+            <item>	sturdy	</item>
+            <item>	stylish	</item>
+            <item>	subdued	</item>
+            <item>	submissive	</item>
+            <item>	subsequent 	</item>
+            <item>	substantial	</item>
+            <item>	subtle	</item>
+            <item>	suburban	</item>
+            <item>	successful 	</item>
+            <item>	succinct	</item>
+            <item>	succulent 	</item>
+            <item>	sudden	</item>
+            <item>	sugary	</item>
+            <item>	sulky 	</item>
+            <item>	sunny	</item>
+            <item>	super	</item>
+            <item>	superb	</item>
+            <item>	superficial	</item>
+            <item>	superior	</item>
+            <item>	supportive	</item>
+            <item>	supreme 	</item>
+            <item>	sure-footed	</item>
+            <item>	surprised	</item>
+            <item>	suspicious	</item>
+            <item>	svelte	</item>
+            <item>	swanky 	</item>
+            <item>	sweaty	</item>
+            <item>	sweet	</item>
+            <item>	sweltering	</item>
+            <item>	swift	</item>
+            <item>	sympathetic	</item>
+            <item>	symptomatic 	</item>
+            <item>	synonymous	</item>
+            <item>	taboo 	</item>
+            <item>	tacit 	</item>
+            <item>	tacky 	</item>
+            <item>	talented	</item>
+            <item>	talkative	</item>
+            <item>	tall	</item>
+            <item>	tame 	</item>
+            <item>	tan	</item>
+            <item>	tangible 	</item>
+            <item>	tangy 	</item>
+            <item>	tart	</item>
+            <item>	tasteful 	</item>
+            <item>	tasteless	</item>
+            <item>	tasty	</item>
+            <item>	tattered	</item>
+            <item>	taut	</item>
+            <item>	tawdry 	</item>
+            <item>	tearful 	</item>
+            <item>	tedious	</item>
+            <item>	teeming	</item>
+            <item>	teeny	</item>
+            <item>	teeny-tiny	</item>
+            <item>	telling 	</item>
+            <item>	temporary 	</item>
+            <item>	tempting	</item>
+            <item>	ten 	</item>
+            <item>	tender	</item>
+            <item>	tense 	</item>
+            <item>	tenuous 	</item>
+            <item>	tepid	</item>
+            <item>	terrible	</item>
+            <item>	terrific	</item>
+            <item>	tested 	</item>
+            <item>	testy	</item>
+            <item>	thankful	</item>
+            <item>	that	</item>
+            <item>	therapeutic 	</item>
+            <item>	these	</item>
+            <item>	thick	</item>
+            <item>	thin	</item>
+            <item>	thinkable 	</item>
+            <item>	third	</item>
+            <item>	thirsty	</item>
+            <item>	this	</item>
+            <item>	thorny	</item>
+            <item>	thorough	</item>
+            <item>	those	</item>
+            <item>	thoughtful 	</item>
+            <item>	thoughtless 	</item>
+            <item>	threadbare	</item>
+            <item>	threatening	</item>
+            <item>	three 	</item>
+            <item>	thrifty	</item>
+            <item>	thundering 	</item>
+            <item>	thunderous	</item>
+            <item>	tidy	</item>
+            <item>	tight 	</item>
+            <item>	tightfisted	</item>
+            <item>	timely 	</item>
+            <item>	tinted	</item>
+            <item>	tiny	</item>
+            <item>	tired 	</item>
+            <item>	tiresome 	</item>
+            <item>	toothsome 	</item>
+            <item>	torn	</item>
+            <item>	torpid 	</item>
+            <item>	total	</item>
+            <item>	tough	</item>
+            <item>	towering 	</item>
+            <item>	tragic	</item>
+            <item>	trained	</item>
+            <item>	tranquil 	</item>
+            <item>	trashy 	</item>
+            <item>	traumatic	</item>
+            <item>	treasured	</item>
+            <item>	tremendous	</item>
+            <item>	triangular	</item>
+            <item>	tricky	</item>
+            <item>	trifling	</item>
+            <item>	trim	</item>
+            <item>	trite 	</item>
+            <item>	trivial	</item>
+            <item>	troubled	</item>
+            <item>	truculent 	</item>
+            <item>	TRUE	</item>
+            <item>	trusting	</item>
+            <item>	trustworthy	</item>
+            <item>	trusty	</item>
+            <item>	truthful	</item>
+            <item>	tubby	</item>
+            <item>	turbulent	</item>
+            <item>	twin	</item>
+            <item>	two	</item>
+            <item>	typical	</item>
+            <item>	ubiquitous 	</item>
+            <item>	ugliest	</item>
+            <item>	ugly	</item>
+            <item>	ultimate	</item>
+            <item>	ultra 	</item>
+            <item>	unable 	</item>
+            <item>	unaccountable 	</item>
+            <item>	unarmed 	</item>
+            <item>	unaware	</item>
+            <item>	unbecoming 	</item>
+            <item>	unbiased 	</item>
+            <item>	uncomfortable	</item>
+            <item>	uncommon	</item>
+            <item>	unconscious	</item>
+            <item>	uncovered 	</item>
+            <item>	understated	</item>
+            <item>	understood 	</item>
+            <item>	undesirable 	</item>
+            <item>	unequal	</item>
+            <item>	unequaled	</item>
+            <item>	uneven	</item>
+            <item>	unfinished	</item>
+            <item>	unfit	</item>
+            <item>	unfolded	</item>
+            <item>	unfortunate	</item>
+            <item>	unhappy	</item>
+            <item>	unhealthy	</item>
+            <item>	uniform	</item>
+            <item>	unimportant	</item>
+            <item>	uninterested 	</item>
+            <item>	unique	</item>
+            <item>	united	</item>
+            <item>	unkempt	</item>
+            <item>	unknown	</item>
+            <item>	unlawful	</item>
+            <item>	unlined	</item>
+            <item>	unlucky	</item>
+            <item>	unnatural	</item>
+            <item>	unpleasant	</item>
+            <item>	unrealistic	</item>
+            <item>	unripe	</item>
+            <item>	unruly	</item>
+            <item>	unselfish	</item>
+            <item>	unsightly	</item>
+            <item>	unsteady	</item>
+            <item>	unsuitable 	</item>
+            <item>	unsung	</item>
+            <item>	untidy	</item>
+            <item>	untimely	</item>
+            <item>	untried	</item>
+            <item>	untrue	</item>
+            <item>	unused	</item>
+            <item>	unusual 	</item>
+            <item>	unwelcome	</item>
+            <item>	unwieldy	</item>
+            <item>	unwitting	</item>
+            <item>	unwritten	</item>
+            <item>	upbeat 	</item>
+            <item>	uppity 	</item>
+            <item>	upright	</item>
+            <item>	upset	</item>
+            <item>	uptight 	</item>
+            <item>	urban	</item>
+            <item>	usable	</item>
+            <item>	used	</item>
+            <item>	used 	</item>
+            <item>	useful	</item>
+            <item>	useless	</item>
+            <item>	utilized	</item>
+            <item>	utopian 	</item>
+            <item>	utter	</item>
+            <item>	uttermost	</item>
+            <item>	vacant	</item>
+            <item>	vacuous 	</item>
+            <item>	vagabond 	</item>
+            <item>	vague	</item>
+            <item>	vain	</item>
+            <item>	valid	</item>
+            <item>	valuable	</item>
+            <item>	vapid	</item>
+            <item>	variable	</item>
+            <item>	various 	</item>
+            <item>	vast	</item>
+            <item>	velvety	</item>
+            <item>	venerated	</item>
+            <item>	vengeful	</item>
+            <item>	venomous 	</item>
+            <item>	verdant 	</item>
+            <item>	verifiable	</item>
+            <item>	versed 	</item>
+            <item>	vexed	</item>
+            <item>	vibrant	</item>
+            <item>	vicious	</item>
+            <item>	victorious	</item>
+            <item>	vigilant	</item>
+            <item>	vigorous	</item>
+            <item>	villainous	</item>
+            <item>	violent	</item>
+            <item>	violet	</item>
+            <item>	virtual	</item>
+            <item>	virtuous	</item>
+            <item>	visible	</item>
+            <item>	vital	</item>
+            <item>	vivacious	</item>
+            <item>	vivid	</item>
+            <item>	voiceless 	</item>
+            <item>	volatile 	</item>
+            <item>	voluminous	</item>
+            <item>	voracious 	</item>
+            <item>	vulgar	</item>
+            <item>	wacky	</item>
+            <item>	waggish	</item>
+            <item>	waiting	</item>
+            <item>	wakeful	</item>
+            <item>	wan	</item>
+            <item>	wandering	</item>
+            <item>	wanting	</item>
+            <item>	warlike	</item>
+            <item>	warm	</item>
+            <item>	warmhearted	</item>
+            <item>	warped	</item>
+            <item>	wary	</item>
+            <item>	wasteful	</item>
+            <item>	watchful	</item>
+            <item>	waterlogged	</item>
+            <item>	watery	</item>
+            <item>	wavy	</item>
+            <item>	weak	</item>
+            <item>	wealthy	</item>
+            <item>	weary	</item>
+            <item>	webbed	</item>
+            <item>	wee	</item>
+            <item>	weekly	</item>
+            <item>	weepy	</item>
+            <item>	weighty	</item>
+            <item>	weird	</item>
+            <item>	welcome	</item>
+            <item>	well-documented	</item>
+            <item>	well-groomed	</item>
+            <item>	well-informed	</item>
+            <item>	well-lit	</item>
+            <item>	well-made	</item>
+            <item>	well-off	</item>
+            <item>	well-to-do	</item>
+            <item>	well-worn	</item>
+            <item>	wet	</item>
+            <item>	which	</item>
+            <item>	whimsical	</item>
+            <item>	whirlwind	</item>
+            <item>	whispered	</item>
+            <item>	whispering	</item>
+            <item>	white	</item>
+            <item>	whole	</item>
+            <item>	wholesale	</item>
+            <item>	whopping	</item>
+            <item>	wicked	</item>
+            <item>	wide	</item>
+            <item>	wide-eyed	</item>
+            <item>	wiggly	</item>
+            <item>	wild	</item>
+            <item>	willing	</item>
+            <item>	wilted	</item>
+            <item>	winding	</item>
+            <item>	windy	</item>
+            <item>	winged	</item>
+            <item>	wiry	</item>
+            <item>	wise	</item>
+            <item>	wistful	</item>
+            <item>	witty	</item>
+            <item>	wobbly	</item>
+            <item>	woebegone	</item>
+            <item>	woeful	</item>
+            <item>	womanly	</item>
+            <item>	wonderful	</item>
+            <item>	wooden	</item>
+            <item>	woozy	</item>
+            <item>	wordy	</item>
+            <item>	workable	</item>
+            <item>	worldly	</item>
+            <item>	worn	</item>
+            <item>	worried	</item>
+            <item>	worrisome	</item>
+            <item>	worse	</item>
+            <item>	worst	</item>
+            <item>	worthless	</item>
+            <item>	worthwhile	</item>
+            <item>	worthy	</item>
+            <item>	wrathful	</item>
+            <item>	wretched	</item>
+            <item>	writhing	</item>
+            <item>	wrong	</item>
+            <item>	wry	</item>
+            <item>	xenophobic	</item>
+            <item>	yawning	</item>
+            <item>	yearly 	</item>
+            <item>	yellow 	</item>
+            <item>	yellowish	</item>
+            <item>	yielding	</item>
+            <item>	young 	</item>
+            <item>	youthful	</item>
+            <item>	yummy	</item>
+            <item>	zany	</item>
+            <item>	zealous	</item>
+            <item>	zesty	</item>
+            <item>	zigzag	</item>
+            <item>	zippy 	</item>
+            <item>	zonked	</item>
         </string-array>
 
     <string-array name="animals">
-        <item>	Whale	</item>
-        <item>	Elephant	</item>
-        <item>	Giraffe	</item>
-        <item>	Mule	</item>
+        <item>	Aardvark	</item>
+        <item>	Abyssinian	</item>
+        <item>	Adelie Penguin	</item>
+        <item>	Affenpinscher	</item>
+        <item>	Afghan Hound	</item>
+        <item>	African Bush Elephant	</item>
+        <item>	African Civet	</item>
+        <item>	African Clawed Frog	</item>
+        <item>	African Forest Elephant	</item>
+        <item>	African Palm Civet	</item>
+        <item>	African Penguin	</item>
+        <item>	African Tree Toad	</item>
+        <item>	African Wild Dog	</item>
+        <item>	Ainu Dog	</item>
+        <item>	Airedale Terrier	</item>
+        <item>	Akbash	</item>
+        <item>	Akita	</item>
+        <item>	Alaskan Malamute	</item>
+        <item>	Albatross	</item>
+        <item>	Aldabra Giant Tortoise	</item>
+        <item>	Alligator	</item>
+        <item>	Alpine Dachsbracke	</item>
+        <item>	American Bulldog	</item>
+        <item>	American Cocker Spaniel	</item>
+        <item>	American Coonhound	</item>
+        <item>	American Eskimo Dog	</item>
+        <item>	American Foxhound	</item>
+        <item>	American Pit Bull Terrier	</item>
+        <item>	American Staffordshire Terrier	</item>
+        <item>	American Water Spaniel	</item>
+        <item>	Anatolian Shepherd Dog	</item>
+        <item>	Angelfish	</item>
+        <item>	Ant	</item>
+        <item>	Anteater	</item>
+        <item>	Antelope	</item>
+        <item>	Appenzeller Dog	</item>
+        <item>	Arctic Fox	</item>
+        <item>	Arctic Hare	</item>
+        <item>	Arctic Wolf	</item>
+        <item>	Armadillo	</item>
+        <item>	Asian Elephant	</item>
+        <item>	Asian Giant Hornet	</item>
+        <item>	Asian Palm Civet	</item>
+        <item>	Asiatic Black Bear	</item>
+        <item>	Australian Cattle Dog	</item>
+        <item>	Australian Kelpie Dog	</item>
+        <item>	Australian Mist	</item>
+        <item>	Australian Shepherd	</item>
+        <item>	Australian Terrier	</item>
+        <item>	Avocet	</item>
+        <item>	Axolotl	</item>
+        <item>	Aye Aye	</item>
+        <item>	Baboon	</item>
+        <item>	Bactrian Camel	</item>
+        <item>	Badger	</item>
+        <item>	Balinese	</item>
+        <item>	Banded Palm Civet	</item>
+        <item>	Bandicoot	</item>
+        <item>	Barb	</item>
+        <item>	Barn Owl	</item>
+        <item>	Barnacle	</item>
+        <item>	Barracuda	</item>
+        <item>	Basenji Dog	</item>
+        <item>	Basking Shark	</item>
+        <item>	Basset Hound	</item>
+        <item>	Bat	</item>
+        <item>	Bavarian Mountain Hound	</item>
+        <item>	Beagle	</item>
+        <item>	Bear	</item>
+        <item>	Bearded Collie	</item>
+        <item>	Bearded Dragon	</item>
+        <item>	Beaver	</item>
+        <item>	Bedlington Terrier	</item>
+        <item>	Beetle	</item>
+        <item>	Bengal Tiger	</item>
+        <item>	Bernese Mountain Dog	</item>
+        <item>	Bichon Frise	</item>
+        <item>	Binturong	</item>
+        <item>	Bird	</item>
+        <item>	Birds Of Paradise	</item>
+        <item>	Birman	</item>
+        <item>	Bison	</item>
+        <item>	Black Bear	</item>
+        <item>	Black Rhinoceros	</item>
+        <item>	Black Russian Terrier	</item>
+        <item>	Black Widow Spider	</item>
+        <item>	Bloodhound	</item>
+        <item>	Blue Lacy Dog	</item>
+        <item>	Blue Whale	</item>
+        <item>	Bluetick Coonhound	</item>
+        <item>	Bobcat	</item>
+        <item>	Bolognese Dog	</item>
+        <item>	Bombay	</item>
+        <item>	Bongo	</item>
+        <item>	Bonobo	</item>
+        <item>	Booby	</item>
+        <item>	Border Collie	</item>
+        <item>	Border Terrier	</item>
+        <item>	Bornean Orang-utan	</item>
+        <item>	Borneo Elephant	</item>
+        <item>	Boston Terrier	</item>
+        <item>	Bottle Nosed Dolphin	</item>
+        <item>	Boxer Dog	</item>
+        <item>	Boykin Spaniel	</item>
+        <item>	Brazilian Terrier	</item>
+        <item>	Brown Bear	</item>
+        <item>	Budgerigar	</item>
+        <item>	Buffalo	</item>
+        <item>	Bull Mastiff	</item>
+        <item>	Bull Shark	</item>
+        <item>	Bull Terrier	</item>
+        <item>	Bulldog	</item>
+        <item>	Bullfrog	</item>
+        <item>	Bumble Bee	</item>
+        <item>	Burmese	</item>
+        <item>	Burrowing Frog	</item>
+        <item>	Butterfly	</item>
+        <item>	Butterfly Fish	</item>
+        <item>	Caiman	</item>
+        <item>	Caiman Lizard	</item>
+        <item>	Cairn Terrier	</item>
         <item>	Camel	</item>
-        <item>	Horse	</item>
+        <item>	Canaan Dog	</item>
+        <item>	Capybara	</item>
+        <item>	Caracal	</item>
+        <item>	Carolina Dog	</item>
+        <item>	Cassowary	</item>
+        <item>	Cat	</item>
+        <item>	Caterpillar	</item>
+        <item>	Catfish	</item>
+        <item>	Cavalier King Charles Spaniel	</item>
+        <item>	Centipede	</item>
+        <item>	Cesky Fousek	</item>
+        <item>	Chameleon	</item>
+        <item>	Chamois	</item>
+        <item>	Cheetah	</item>
+        <item>	Chesapeake Bay Retriever	</item>
+        <item>	Chicken	</item>
+        <item>	Chihuahua	</item>
+        <item>	Chimpanzee	</item>
+        <item>	Chinchilla	</item>
+        <item>	Chinese Crested Dog	</item>
+        <item>	Chinook	</item>
+        <item>	Chinstrap Penguin	</item>
+        <item>	Chipmunk	</item>
+        <item>	Chow Chow	</item>
+        <item>	Cichlid	</item>
+        <item>	Clouded Leopard	</item>
+        <item>	Clown Fish	</item>
+        <item>	Clumber Spaniel	</item>
+        <item>	Coati	</item>
+        <item>	Cockroach	</item>
+        <item>	Collared Peccary	</item>
+        <item>	Collie	</item>
+        <item>	Common Buzzard	</item>
+        <item>	Common Frog	</item>
+        <item>	Common Loon	</item>
+        <item>	Common Toad	</item>
+        <item>	Coral	</item>
+        <item>	Cottontop Tamarin	</item>
+        <item>	Cougar	</item>
         <item>	Cow	</item>
+        <item>	Coyote	</item>
+        <item>	Crab	</item>
+        <item>	Crab-Eating Macaque	</item>
+        <item>	Crane	</item>
+        <item>	Crested Penguin	</item>
+        <item>	Crocodile	</item>
+        <item>	Cross River Gorilla	</item>
+        <item>	Curly Coated Retriever	</item>
+        <item>	Cuscus	</item>
+        <item>	Cuttlefish	</item>
+        <item>	Dachshund	</item>
+        <item>	Dalmatian	</item>
+        <item>	Deer	</item>
+        <item>	Desert Tortoise	</item>
+        <item>	Deutsche Bracke	</item>
+        <item>	Dhole	</item>
+        <item>	Dingo	</item>
+        <item>	Discus	</item>
+        <item>	Doberman Pinscher	</item>
+        <item>	Dodo	</item>
+        <item>	Dog	</item>
+        <item>	Dogo Argentino	</item>
+        <item>	Dogue De Bordeaux	</item>
         <item>	Dolphin	</item>
         <item>	Donkey	</item>
-        <item>	Tapir	</item>
-        <item>	Shark	</item>
-        <item>	Seal	</item>
-        <item>	Manatee	</item>
-        <item>	Black Bear	</item>
-        <item>	Alligator	</item>
-        <item>	Sturgeon	</item>
-        <item>	Lion	</item>
-        <item>	Grizzly Bear	</item>
-        <item>	Ostrich	</item>
-        <item>	Crocodile	</item>
-        <item>	Pig	</item>
-        <item>	Sheep	</item>
-        <item>	Dog	</item>
-        <item>	Human	</item>
-        <item>	Deer	</item>
-        <item>	Tuna	</item>
-        <item>	Carp	</item>
-        <item>	Goat	</item>
-        <item>	Sting Ray	</item>
-        <item>	Kangaroo	</item>
-        <item>	Cod	</item>
-        <item>	Pike	</item>
-        <item>	Turkey	</item>
-        <item>	Porcupine	</item>
-        <item>	Trout	</item>
-        <item>	Beaver	</item>
-        <item>	Nutria	</item>
-        <item>	Armadillo	</item>
-        <item>	Fox	</item>
-        <item>	Woodchuck	</item>
-        <item>	Rabbit	</item>
-        <item>	Chicken	</item>
-        <item>	Dog	</item>
-        <item>	Haddock	</item>
-        <item>	Cat	</item>
-        <item>	Salmon	</item>
-        <item>	Vulture	</item>
-        <item>	Opossum	</item>
-        <item>	Flounder	</item>
-        <item>	Pheasant	</item>
-        <item>	Perch	</item>
-        <item>	Mackerel	</item>
-        <item>	Platypus	</item>
-        <item>	Sea Lamprey	</item>
-        <item>	Mink	</item>
-        <item>	Falcon	</item>
-        <item>	Goshawk	</item>
+        <item>	Dormouse	</item>
+        <item>	Dragonfly	</item>
+        <item>	Drever	</item>
         <item>	Duck	</item>
-        <item>	Buzzard	</item>
-        <item>	Squirrel	</item>
-        <item>	Guinea Pig	</item>
-        <item>	Rat	</item>
-        <item>	Gull	</item>
-        <item>	Crow	</item>
-        <item>	Rook	</item>
-        <item>	Pumpkinseed	</item>
-        <item>	Pigeon	</item>
-        <item>	Magpie	</item>
-        <item>	European Jackdaw	</item>
-        <item>	Hamster	</item>
-        <item>	Hawk	</item>
-        <item>	Chipmunk	</item>
-        <item>	Bat	</item>
-        <item>	Starling	</item>
-        <item>	Weasel	</item>
-        <item>	Mouse	</item>
-        <item>	Canary	</item>
-        <item>	Hummingbird	</item>
-        <item>	Shrew	</item>
-        <item>	Goby	</item>
-        <item>	Goldfish	</item>
-        <item>	Toad	</item>
+        <item>	Dugong	</item>
+        <item>	Dunker	</item>
+        <item>	Dusky Dolphin	</item>
+        <item>	Dwarf Crocodile	</item>
+        <item>	Eagle	</item>
+        <item>	Earwig	</item>
+        <item>	Eastern Gorilla	</item>
+        <item>	Eastern Lowland Gorilla	</item>
+        <item>	Echidna	</item>
+        <item>	Edible Frog	</item>
+        <item>	Egyptian Mau	</item>
+        <item>	Electric Eel	</item>
+        <item>	Elephant	</item>
+        <item>	Elephant Seal	</item>
+        <item>	Elephant Shrew	</item>
+        <item>	Emperor Penguin	</item>
+        <item>	Emperor Tamarin	</item>
+        <item>	Emu	</item>
+        <item>	English Cocker Spaniel	</item>
+        <item>	English Shepherd	</item>
+        <item>	English Springer Spaniel	</item>
+        <item>	Entlebucher Mountain Dog	</item>
+        <item>	Epagneul Pont Audemer	</item>
+        <item>	Eskimo Dog	</item>
+        <item>	Estrela Mountain Dog	</item>
+        <item>	Falcon	</item>
+        <item>	Fennec Fox	</item>
+        <item>	Ferret	</item>
+        <item>	Field Spaniel	</item>
+        <item>	Fin Whale	</item>
+        <item>	Finnish Spitz	</item>
+        <item>	Fire-Bellied Toad	</item>
+        <item>	Fish	</item>
+        <item>	Fishing Cat	</item>
+        <item>	Flamingo	</item>
+        <item>	Flat Coat Retriever	</item>
+        <item>	Flounder	</item>
+        <item>	Fly	</item>
+        <item>	Flying Squirrel	</item>
+        <item>	Fossa	</item>
+        <item>	Fox	</item>
+        <item>	Fox Terrier	</item>
+        <item>	French Bulldog	</item>
+        <item>	Frigatebird	</item>
+        <item>	Frilled Lizard	</item>
         <item>	Frog	</item>
-        <item>	Eel	</item>
-        <item>	Penguin	</item>
-        <item>	Robin	</item>
-        <item>	Kiwi	</item>
-        <item>	Fighting Fish	</item>
-        <item>	Skate	</item>
-        <item>	Quail	</item>
+        <item>	Fur Seal	</item>
+        <item>	Galapagos Penguin	</item>
+        <item>	Galapagos Tortoise	</item>
+        <item>	Gar	</item>
+        <item>	Gecko	</item>
+        <item>	Gentoo Penguin	</item>
+        <item>	Geoffroys Tamarin	</item>
+        <item>	Gerbil	</item>
+        <item>	German Pinscher	</item>
+        <item>	German Shepherd	</item>
+        <item>	Gharial	</item>
+        <item>	Giant African Land Snail	</item>
+        <item>	Giant Clam	</item>
+        <item>	Giant Panda Bear	</item>
+        <item>	Giant Schnauzer	</item>
+        <item>	Gibbon	</item>
         <item>	Gila Monster	</item>
-        <item>	Chameleon	</item>
-        <item>	Cobra	</item>
-        <item>	Boa Constrictor	</item>
+        <item>	Giraffe	</item>
+        <item>	Glass Lizard	</item>
+        <item>	Glow Worm	</item>
+        <item>	Goat	</item>
+        <item>	Golden Lion Tamarin	</item>
+        <item>	Golden Oriole	</item>
+        <item>	Golden Retriever	</item>
+        <item>	Goose	</item>
+        <item>	Gopher	</item>
+        <item>	Gorilla	</item>
+        <item>	Grasshopper	</item>
+        <item>	Great Dane	</item>
+        <item>	Great White Shark	</item>
+        <item>	Greater Swiss Mountain Dog	</item>
+        <item>	Green Bee-Eater	</item>
+        <item>	Greenland Dog	</item>
+        <item>	Grey Mouse Lemur	</item>
+        <item>	Grey Reef Shark	</item>
+        <item>	Grey Seal	</item>
+        <item>	Greyhound	</item>
+        <item>	Grizzly Bear	</item>
+        <item>	Grouse	</item>
+        <item>	Guinea Fowl	</item>
+        <item>	Guinea Pig	</item>
         <item>	Guppy	</item>
-        <item>	Salamander	</item>
-        <item>	Swordtail	</item>
-        <item>	Stickleback	</item>
-        <item>	Sea horse	</item>
-        <item>	Hellbender	</item>
-        <item>	Herring	</item>
-        <item>	Chameleon	</item>
-        <item>	Frog	</item>
+        <item>	Hammerhead Shark	</item>
+        <item>	Hamster	</item>
+        <item>	Hare	</item>
+        <item>	Harrier	</item>
+        <item>	Havanese	</item>
+        <item>	Hedgehog	</item>
+        <item>	Hercules Beetle	</item>
+        <item>	Hermit Crab	</item>
+        <item>	Heron	</item>
+        <item>	Highland Cattle	</item>
+        <item>	Himalayan	</item>
+        <item>	Hippopotamus	</item>
+        <item>	Honey Bee	</item>
+        <item>	Horn Shark	</item>
+        <item>	Horned Frog	</item>
+        <item>	Horse	</item>
+        <item>	Horseshoe Crab	</item>
+        <item>	Howler Monkey	</item>
+        <item>	Human	</item>
+        <item>	Humboldt Penguin	</item>
+        <item>	Hummingbird	</item>
+        <item>	Humpback Whale	</item>
+        <item>	Hyena	</item>
+        <item>	Ibis	</item>
+        <item>	Ibizan Hound	</item>
+        <item>	Iguana	</item>
+        <item>	Impala	</item>
+        <item>	Indian Elephant	</item>
+        <item>	Indian Palm Squirrel	</item>
+        <item>	Indian Rhinoceros	</item>
+        <item>	Indian Star Tortoise	</item>
+        <item>	Indochinese Tiger	</item>
+        <item>	Indri	</item>
+        <item>	Insect	</item>
+        <item>	Irish Setter	</item>
+        <item>	Irish WolfHound	</item>
+        <item>	Jack Russel	</item>
+        <item>	Jackal	</item>
+        <item>	Jaguar	</item>
+        <item>	Japanese Chin	</item>
+        <item>	Japanese Macaque	</item>
+        <item>	Javan Rhinoceros	</item>
+        <item>	Javanese	</item>
+        <item>	Jellyfish	</item>
+        <item>	Kakapo	</item>
+        <item>	Kangaroo	</item>
+        <item>	Keel Billed Toucan	</item>
+        <item>	Killer Whale	</item>
+        <item>	King Crab	</item>
+        <item>	King Penguin	</item>
+        <item>	Kingfisher	</item>
+        <item>	Kiwi	</item>
+        <item>	Koala	</item>
+        <item>	Komodo Dragon	</item>
+        <item>	Kudu	</item>
+        <item>	Labradoodle	</item>
+        <item>	Labrador Retriever	</item>
+        <item>	Ladybird	</item>
+        <item>	Leaf-Tailed Gecko	</item>
+        <item>	Lemming	</item>
+        <item>	Lemur	</item>
+        <item>	Leopard	</item>
+        <item>	Leopard Cat	</item>
+        <item>	Leopard Seal	</item>
+        <item>	Leopard Tortoise	</item>
+        <item>	Liger	</item>
+        <item>	Lion	</item>
+        <item>	Lionfish	</item>
+        <item>	Little Penguin	</item>
+        <item>	Lizard	</item>
+        <item>	Llama	</item>
+        <item>	Lobster	</item>
+        <item>	Long-Eared Owl	</item>
+        <item>	Lynx	</item>
+        <item>	Macaroni Penguin	</item>
+        <item>	Macaw	</item>
+        <item>	Magellanic Penguin	</item>
+        <item>	Magpie	</item>
+        <item>	Maine Coon	</item>
+        <item>	Malayan Civet	</item>
+        <item>	Malayan Tiger	</item>
+        <item>	Maltese	</item>
+        <item>	Manatee	</item>
+        <item>	Mandrill	</item>
+        <item>	Manta Ray	</item>
+        <item>	Marine Toad	</item>
+        <item>	Markhor	</item>
+        <item>	Marsh Frog	</item>
+        <item>	Masked Palm Civet	</item>
+        <item>	Mastiff	</item>
+        <item>	Mayfly	</item>
+        <item>	Meerkat	</item>
+        <item>	Millipede	</item>
+        <item>	Minke Whale	</item>
+        <item>	Mole	</item>
         <item>	Molly	</item>
-        <item>	Dogfish	</item>
+        <item>	Mongoose	</item>
+        <item>	Mongrel	</item>
+        <item>	Monitor Lizard	</item>
+        <item>	Monkey	</item>
+        <item>	Monte Iberia Eleuth	</item>
+        <item>	Moorhen	</item>
+        <item>	Moose	</item>
+        <item>	Moray Eel	</item>
+        <item>	Moth	</item>
+        <item>	Mountain Gorilla	</item>
+        <item>	Mountain Lion	</item>
+        <item>	Mouse	</item>
+        <item>	Mule	</item>
+        <item>	Neanderthal	</item>
+        <item>	Neapolitan Mastiff	</item>
+        <item>	Newfoundland	</item>
+        <item>	Newt	</item>
+        <item>	Nightingale	</item>
+        <item>	Norfolk Terrier	</item>
+        <item>	Norwegian Forest	</item>
+        <item>	Numbat	</item>
+        <item>	Nurse Shark	</item>
+        <item>	Ocelot	</item>
+        <item>	Octopus	</item>
+        <item>	Sheepdog	</item>
+        <item>	Olm	</item>
+        <item>	Opossum	</item>
+        <item>	Orangutan	</item>
+        <item>	Ostrich	</item>
+        <item>	Otter	</item>
+        <item>	Oyster	</item>
+        <item>	Panther	</item>
+        <item>	Parrot	</item>
+        <item>	Monkey	</item>
+        <item>	Peacock	</item>
+        <item>	Pekingese	</item>
+        <item>	Pelican	</item>
+        <item>	Penguin	</item>
+        <item>	Persian	</item>
+        <item>	Pheasant	</item>
+        <item>	Pig	</item>
+        <item>	Pike	</item>
+        <item>	Pink Fairy Armadillo	</item>
+        <item>	Piranha	</item>
+        <item>	Platypus	</item>
+        <item>	Pointer	</item>
+        <item>	Poison Dart Frog	</item>
+        <item>	Polar Bear	</item>
+        <item>	Pond Skater	</item>
+        <item>	Poodle	</item>
+        <item>	Pool Frog	</item>
+        <item>	Porcupine	</item>
+        <item>	Possum	</item>
+        <item>	Prawn	</item>
+        <item>	Proboscis Monkey	</item>
+        <item>	Puffer Fish	</item>
+        <item>	Puffin	</item>
+        <item>	Pug	</item>
+        <item>	Puma	</item>
+        <item>	Purple Emperor	</item>
+        <item>	Puss Moth	</item>
+        <item>	Pygmy Hippopotamus	</item>
+        <item>	Pygmy Marmoset	</item>
+        <item>	Quail	</item>
+        <item>	Quetzal	</item>
+        <item>	Quokka	</item>
+        <item>	Quoll	</item>
+        <item>	Rabbit	</item>
+        <item>	Raccoon	</item>
+        <item>	Raccoon Dog	</item>
+        <item>	Radiated Tortoise	</item>
+        <item>	Ragdoll	</item>
+        <item>	Rat	</item>
+        <item>	Rattlesnake	</item>
+        <item>	Tarantula	</item>
+        <item>	Panda	</item>
+        <item>	Wolf	</item>
+        <item>	Reindeer	</item>
+        <item>	Rhinoceros	</item>
+        <item>	River Dolphin	</item>
+        <item>	River Turtle	</item>
+        <item>	Robin	</item>
+        <item>	Rock Hyrax	</item>
+        <item>	Rockhopper Penguin	</item>
+        <item>	Roseate Spoonbill	</item>
+        <item>	Rottweiler	</item>
+        <item>	Royal Penguin	</item>
+        <item>	Russian Blue	</item>
+        <item>	Sabre-Toothed Tiger	</item>
+        <item>	Saint Bernard	</item>
+        <item>	Salamander	</item>
+        <item>	Sand Lizard	</item>
+        <item>	Saola	</item>
+        <item>	Scorpion	</item>
+        <item>	Scorpion Fish	</item>
+        <item>	Sea Dragon	</item>
+        <item>	Sea Lion	</item>
+        <item>	Sea Otter	</item>
+        <item>	Sea Slug	</item>
+        <item>	Sea Squirt	</item>
+        <item>	Sea Turtle	</item>
+        <item>	Sea Urchin	</item>
+        <item>	Seahorse	</item>
+        <item>	Seal	</item>
+        <item>	Serval	</item>
+        <item>	Sheep	</item>
+        <item>	Shih Tzu	</item>
+        <item>	Shrimp	</item>
+        <item>	Siamese	</item>
+        <item>	Siamese Fighting Fish	</item>
+        <item>	Siberian	</item>
+        <item>	Siberian Husky	</item>
+        <item>	Siberian Tiger	</item>
+        <item>	Silver Dollar	</item>
+        <item>	Skunk	</item>
+        <item>	Sloth	</item>
+        <item>	Slow Worm	</item>
+        <item>	Snail	</item>
+        <item>	Snake	</item>
+        <item>	Snapping Turtle	</item>
+        <item>	Snowshoe	</item>
+        <item>	Snowy Owl	</item>
+        <item>	Somali	</item>
+        <item>	Tiger	</item>
+        <item>	Toad	</item>
+        <item>	Sparrow	</item>
+        <item>	Bear	</item>
+        <item>	Sperm Whale	</item>
+        <item>	Spider Monkey	</item>
+        <item>	Spiny Dogfish	</item>
+        <item>	Sponge	</item>
+        <item>	Squid	</item>
+        <item>	Squirrel	</item>
+        <item>	Squirrel Monkey	</item>
+        <item>	Elephant	</item>
+        <item>	 Bull Terrier	</item>
+        <item>	Stag Beetle	</item>
+        <item>	Starfish	</item>
+        <item>	Sea Cow	</item>
+        <item>	Stick Insect	</item>
+        <item>	Stingray	</item>
+        <item>	Stoat	</item>
+        <item>	Striped Rocket Frog	</item>
+        <item>	Sumatran Elephant	</item>
+        <item>	Sumatran Orang-utan	</item>
+        <item>	Sumatran Rhinoceros	</item>
+        <item>	Sumatran Tiger	</item>
+        <item>	Sun Bear	</item>
+        <item>	Swan	</item>
+        <item>	Tang	</item>
+        <item>	Tapir	</item>
+        <item>	Tarsier	</item>
+        <item>	Tasmanian Devil	</item>
+        <item>	Tawny Owl	</item>
+        <item>	Termite	</item>
+        <item>	Tetra	</item>
+        <item>	Thorny Devil	</item>
+        <item>	Tibetan Mastiff	</item>
+        <item>	Tiffany	</item>
+        <item>	Tiger	</item>
+        <item>	Tiger Salamander	</item>
+        <item>	Tiger Shark	</item>
+        <item>	Tortoise	</item>
+        <item>	Toucan	</item>
+        <item>	Tree Frog	</item>
+        <item>	Tropicbird	</item>
+        <item>	Tuatara	</item>
+        <item>	Turkey	</item>
+        <item>	Turkish Angora	</item>
+        <item>	Uakari	</item>
+        <item>	Uguisu	</item>
+        <item>	Umbrellabird	</item>
+        <item>	Vampire Bat	</item>
+        <item>	Vervet Monkey	</item>
+        <item>	Vulture	</item>
+        <item>	Wallaby	</item>
+        <item>	Walrus	</item>
+        <item>	Warthog	</item>
+        <item>	Wasp	</item>
+        <item>	Water Buffalo	</item>
+        <item>	Dragon	</item>
+        <item>	Water Vole	</item>
+        <item>	Weasel	</item>
+        <item>	Welsh Corgi	</item>
+        <item>	 Terrier	</item>
+        <item>	 Gorilla	</item>
+        <item>	Whale Shark	</item>
+        <item>	Whippet	</item>
+        <item>	White Rhinoceros	</item>
+        <item>	White Tiger	</item>
+        <item>	Wild Boar	</item>
+        <item>	Wildebeest	</item>
+        <item>	Wolf	</item>
+        <item>	Wolverine	</item>
+        <item>	Wombat	</item>
+        <item>	Woodlouse	</item>
+        <item>	Woodpecker	</item>
+        <item>	Woolly Mammoth	</item>
+        <item>	Woolly Monkey	</item>
+        <item>	Wrasse	</item>
+        <item>	X-Ray Tetra	</item>
+        <item>	Yak	</item>
+        <item>	Yellow-Eyed Penguin	</item>
+        <item>	Yorkshire Terrier	</item>
+        <item>	Zebra	</item>
+        <item>	Zebra Shark	</item>
+        <item>	Zebu	</item>
+        <item>	Zonkey	</item>
+        <item>	Zorse	</item>
 
     </string-array>
 
 
     <string-array name="objects">
-        <item>Doors</item>
-        <item>Trees</item>
-        <item>Paintings</item>
-        <item>Firestorms</item>
-        <item>Lightning Bolts</item>
-        <item>Rocking Chairs</item>
-        <item>Radios</item>
-        <item>Speakers</item>
+        <item>	account	</item>
+        <item>	achiever	</item>
+        <item>	acoustic	</item>
+        <item>	act	</item>
+        <item>	action	</item>
+        <item>	activity	</item>
+        <item>	actor	</item>
+        <item>	addition	</item>
+        <item>	adjustment	</item>
+        <item>	advertisement	</item>
+        <item>	advice	</item>
+        <item>	aftermath	</item>
+        <item>	afternoon	</item>
+        <item>	afterthought	</item>
+        <item>	agreement	</item>
+        <item>	air	</item>
+        <item>	airplane	</item>
+        <item>	airport	</item>
+        <item>	alarm	</item>
+        <item>	amount	</item>
+        <item>	amusement	</item>
+        <item>	anger	</item>
+        <item>	angle	</item>
+        <item>	animal 	</item>
+        <item>	answer	</item>
+        <item>	ant	</item>
+        <item>	ants 	</item>
+        <item>	apparatus	</item>
+        <item>	apparel	</item>
+        <item>	apple	</item>
+        <item>	appliance	</item>
+        <item>	approval	</item>
+        <item>	arch	</item>
+        <item>	argument	</item>
+        <item>	arithmetic	</item>
+        <item>	arm	</item>
+        <item>	army	</item>
+        <item>	art	</item>
+        <item>	attack	</item>
+        <item>	attempt	</item>
+        <item>	attention	</item>
+        <item>	attraction	</item>
+        <item>	aunt	</item>
+        <item>	authority	</item>
+        <item>	babie	</item>
+        <item>	baby 	</item>
+        <item>	back	</item>
+        <item>	badge	</item>
+        <item>	bag	</item>
+        <item>	bait	</item>
+        <item>	balance	</item>
+        <item>	ball	</item>
+        <item>	balloon	</item>
+        <item>	balls 	</item>
+        <item>	banana	</item>
+        <item>	band	</item>
+        <item>	base	</item>
+        <item>	baseball	</item>
+        <item>	basin	</item>
+        <item>	basket	</item>
+        <item>	basketball	</item>
+        <item>	bat	</item>
+        <item>	bath	</item>
+        <item>	battle	</item>
+        <item>	bead	</item>
+        <item>	beam	</item>
+        <item>	bean	</item>
+        <item>	bear	</item>
+        <item>	beast	</item>
+        <item>	bed	</item>
+        <item>	bedroom	</item>
+        <item>	beds 	</item>
+        <item>	bee	</item>
+        <item>	beef	</item>
+        <item>	beetle	</item>
+        <item>	beggar	</item>
+        <item>	beginner	</item>
+        <item>	behavior	</item>
+        <item>	belief	</item>
+        <item>	believe	</item>
+        <item>	bell	</item>
+        <item>	berry	</item>
+        <item>	bike	</item>
+        <item>	bikes 	</item>
+        <item>	bird	</item>
+        <item>	birds 	</item>
+        <item>	birth	</item>
+        <item>	birthday	</item>
+        <item>	bit	</item>
+        <item>	bite	</item>
+        <item>	blade	</item>
+        <item>	blood	</item>
+        <item>	blow	</item>
+        <item>	board	</item>
+        <item>	boat	</item>
+        <item>	body	</item>
+        <item>	bomb	</item>
+        <item>	bone	</item>
+        <item>	book	</item>
+        <item>	boot	</item>
+        <item>	border	</item>
+        <item>	bottle	</item>
+        <item>	boundary	</item>
+        <item>	box	</item>
+        <item>	boy	</item>
+        <item>	brain	</item>
+        <item>	brake	</item>
+        <item>	branch	</item>
+        <item>	brass	</item>
+        <item>	bread	</item>
+        <item>	breakfast	</item>
+        <item>	breath	</item>
+        <item>	brick	</item>
+        <item>	bridge	</item>
+        <item>	brother	</item>
+        <item>	brothers 	</item>
+        <item>	brush	</item>
+        <item>	bubble	</item>
+        <item>	bucket	</item>
+        <item>	building	</item>
+        <item>	bulb	</item>
+        <item>	bun	</item>
+        <item>	burn	</item>
+        <item>	burst	</item>
+        <item>	bushe	</item>
+        <item>	businesse	</item>
+        <item>	butter	</item>
+        <item>	button	</item>
+        <item>	cabbage	</item>
+        <item>	cable	</item>
+        <item>	cactus	</item>
+        <item>	cake 	</item>
+        <item>	calculator	</item>
+        <item>	calendar	</item>
+        <item>	camera	</item>
+        <item>	camp	</item>
+        <item>	can	</item>
+        <item>	cannon	</item>
+        <item>	canvas	</item>
+        <item>	cap	</item>
+        <item>	caption	</item>
+        <item>	car 	</item>
+        <item>	card	</item>
+        <item>	care	</item>
+        <item>	carpenter	</item>
+        <item>	carriage	</item>
+        <item>	cars 	</item>
+        <item>	cart	</item>
+        <item>	cast	</item>
+        <item>	cat	</item>
+        <item>	cats 	</item>
+        <item>	cattle	</item>
+        <item>	cause	</item>
+        <item>	cave	</item>
+        <item>	celery	</item>
+        <item>	cellar	</item>
+        <item>	cemetery	</item>
+        <item>	cent	</item>
+        <item>	chain	</item>
+        <item>	chair 	</item>
+        <item>	chairs 	</item>
+        <item>	chalk	</item>
+        <item>	chance	</item>
+        <item>	change	</item>
+        <item>	channel	</item>
+        <item>	cheese	</item>
+        <item>	cherrie	</item>
+        <item>	cherry	</item>
+        <item>	chess	</item>
+        <item>	chicken	</item>
+        <item>	children	</item>
+        <item>	chin	</item>
+        <item>	church	</item>
+        <item>	circle	</item>
+        <item>	clam	</item>
+        <item>	class	</item>
+        <item>	clock	</item>
+        <item>	clocks 	</item>
+        <item>	cloth	</item>
+        <item>	cloud	</item>
+        <item>	clouds 	</item>
+        <item>	clover	</item>
+        <item>	club	</item>
+        <item>	coach	</item>
+        <item>	coal	</item>
+        <item>	coast	</item>
+        <item>	coat	</item>
+        <item>	cobweb	</item>
+        <item>	coil	</item>
+        <item>	collar	</item>
+        <item>	color	</item>
+        <item>	comb	</item>
+        <item>	comfort	</item>
+        <item>	committee	</item>
+        <item>	company	</item>
+        <item>	comparison	</item>
+        <item>	competition	</item>
+        <item>	condition	</item>
+        <item>	connection	</item>
+        <item>	control	</item>
+        <item>	cook	</item>
+        <item>	copper	</item>
+        <item>	copy	</item>
+        <item>	cord	</item>
+        <item>	cork	</item>
+        <item>	corn 	</item>
+        <item>	cough	</item>
+        <item>	country	</item>
+        <item>	cover	</item>
+        <item>	cow	</item>
+        <item>	cows 	</item>
+        <item>	crack	</item>
+        <item>	cracker	</item>
+        <item>	crate	</item>
+        <item>	crayon	</item>
+        <item>	cream	</item>
+        <item>	creator	</item>
+        <item>	creature	</item>
+        <item>	credit	</item>
+        <item>	crib	</item>
+        <item>	crime	</item>
+        <item>	crook	</item>
+        <item>	crow	</item>
+        <item>	crowd	</item>
+        <item>	crown	</item>
+        <item>	crush	</item>
+        <item>	cry	</item>
+        <item>	cub	</item>
+        <item>	cup	</item>
+        <item>	current	</item>
+        <item>	curtain	</item>
+        <item>	curve	</item>
+        <item>	cushion	</item>
+        <item>	dad	</item>
+        <item>	daughter	</item>
+        <item>	day	</item>
+        <item>	death	</item>
+        <item>	debt	</item>
+        <item>	decision	</item>
+        <item>	deer	</item>
+        <item>	degree	</item>
+        <item>	design	</item>
+        <item>	desire	</item>
+        <item>	desk	</item>
+        <item>	destruction	</item>
+        <item>	detail	</item>
+        <item>	development	</item>
+        <item>	digestion	</item>
+        <item>	dime	</item>
+        <item>	dinner	</item>
+        <item>	dinosaur	</item>
+        <item>	direction	</item>
+        <item>	dirt	</item>
+        <item>	discovery	</item>
+        <item>	discussion	</item>
+        <item>	disease	</item>
+        <item>	disgust	</item>
+        <item>	distance	</item>
+        <item>	distribution	</item>
+        <item>	division	</item>
+        <item>	dock	</item>
+        <item>	doctor	</item>
+        <item>	dog	</item>
+        <item>	dogs 	</item>
+        <item>	doll	</item>
+        <item>	dolls 	</item>
+        <item>	donkey	</item>
+        <item>	door	</item>
+        <item>	downtown	</item>
+        <item>	drain	</item>
+        <item>	drawer	</item>
+        <item>	dress	</item>
+        <item>	drink	</item>
+        <item>	driving	</item>
+        <item>	drop	</item>
+        <item>	drug	</item>
+        <item>	drum	</item>
+        <item>	duck	</item>
+        <item>	dust	</item>
+        <item>	ear	</item>
+        <item>	earth	</item>
+        <item>	earthquake	</item>
+        <item>	edge	</item>
+        <item>	education	</item>
+        <item>	effect	</item>
+        <item>	egg	</item>
+        <item>	eggnog	</item>
+        <item>	eggs 	</item>
+        <item>	elbow	</item>
+        <item>	end	</item>
+        <item>	engine	</item>
+        <item>	error	</item>
+        <item>	event	</item>
+        <item>	example	</item>
+        <item>	exchange	</item>
+        <item>	existence	</item>
+        <item>	expansion	</item>
+        <item>	experience	</item>
+        <item>	expert	</item>
+        <item>	eye	</item>
+        <item>	eyes	</item>
+        <item>	face	</item>
+        <item>	fact	</item>
+        <item>	fairies 	</item>
+        <item>	fall	</item>
+        <item>	family	</item>
+        <item>	fan	</item>
+        <item>	fang 	</item>
+        <item>	farm	</item>
+        <item>	farmer 	</item>
+        <item>	father	</item>
+        <item>	father	</item>
+        <item>	faucet	</item>
+        <item>	fear	</item>
+        <item>	feast	</item>
+        <item>	feather	</item>
+        <item>	feeling	</item>
+        <item>	feet	</item>
+        <item>	fiction	</item>
+        <item>	field	</item>
+        <item>	fifth	</item>
+        <item>	fight	</item>
+        <item>	finger	</item>
+        <item>	finger	</item>
+        <item>	fire 	</item>
+        <item>	fireman	</item>
+        <item>	fish	</item>
+        <item>	flag	</item>
+        <item>	flame	</item>
+        <item>	flavor	</item>
+        <item>	flesh	</item>
+        <item>	flight	</item>
+        <item>	flock	</item>
+        <item>	floor	</item>
+        <item>	flower	</item>
+        <item>	flowers 	</item>
+        <item>	fly	</item>
+        <item>	fog	</item>
+        <item>	fold	</item>
+        <item>	food	</item>
+        <item>	foot	</item>
+        <item>	force	</item>
+        <item>	fork	</item>
+        <item>	form	</item>
+        <item>	fowl	</item>
+        <item>	frame	</item>
+        <item>	friction	</item>
+        <item>	friend	</item>
+        <item>	frog	</item>
+        <item>	front	</item>
+        <item>	fruit	</item>
+        <item>	fuel	</item>
+        <item>	furniture	</item>
+        <item>	game	</item>
+        <item>	garden	</item>
+        <item>	gate	</item>
+        <item>	geese	</item>
+        <item>	ghost	</item>
+        <item>	giants 	</item>
+        <item>	giraffe	</item>
+        <item>	girl	</item>
+        <item>	glass	</item>
+        <item>	glove	</item>
+        <item>	glue	</item>
+        <item>	goat	</item>
+        <item>	gold	</item>
+        <item>	goldfish	</item>
+        <item>	good-bye 	</item>
+        <item>	goose	</item>
+        <item>	government	</item>
+        <item>	governor	</item>
+        <item>	grade	</item>
+        <item>	grain	</item>
+        <item>	grandfather	</item>
+        <item>	grandmother	</item>
+        <item>	grape	</item>
+        <item>	grass	</item>
+        <item>	grip	</item>
+        <item>	ground	</item>
+        <item>	group	</item>
+        <item>	growth	</item>
+        <item>	guide	</item>
+        <item>	guitar	</item>
+        <item>	gun	</item>
+        <item>	hair	</item>
+        <item>	haircut	</item>
+        <item>	hall	</item>
+        <item>	hammer	</item>
+        <item>	hand	</item>
+        <item>	hands 	</item>
+        <item>	harbor	</item>
+        <item>	harmony	</item>
+        <item>	hat	</item>
+        <item>	hate	</item>
+        <item>	head	</item>
+        <item>	health	</item>
+        <item>	hearing	</item>
+        <item>	heart	</item>
+        <item>	heat	</item>
+        <item>	help	</item>
+        <item>	hen	</item>
+        <item>	hill 	</item>
+        <item>	history	</item>
+        <item>	hobbie	</item>
+        <item>	hole	</item>
+        <item>	holiday	</item>
+        <item>	home 	</item>
+        <item>	honey	</item>
+        <item>	hook	</item>
+        <item>	hope	</item>
+        <item>	horn	</item>
+        <item>	horse	</item>
+        <item>	hose	</item>
+        <item>	hospital	</item>
+        <item>	hot	</item>
+        <item>	hour	</item>
+        <item>	house	</item>
+        <item>	humor	</item>
+        <item>	hydrant	</item>
+        <item>	ice	</item>
+        <item>	icicle	</item>
+        <item>	idea	</item>
+        <item>	impulse	</item>
+        <item>	income	</item>
+        <item>	increase	</item>
+        <item>	industry	</item>
+        <item>	ink	</item>
+        <item>	insect	</item>
+        <item>	instrument	</item>
+        <item>	insurance	</item>
+        <item>	interest	</item>
+        <item>	invention	</item>
+        <item>	iron	</item>
+        <item>	island	</item>
+        <item>	jail	</item>
+        <item>	jam	</item>
+        <item>	jar	</item>
+        <item>	jeans	</item>
+        <item>	jelly	</item>
+        <item>	jellyfish	</item>
+        <item>	jewel	</item>
+        <item>	join	</item>
+        <item>	joke	</item>
+        <item>	journey	</item>
+        <item>	judge	</item>
+        <item>	juice	</item>
+        <item>	jump	</item>
+        <item>	kettle	</item>
+        <item>	key	</item>
+        <item>	kick	</item>
+        <item>	kiss	</item>
+        <item>	kite	</item>
+        <item>	kitten	</item>
+        <item>	kittens 	</item>
+        <item>	kitty 	</item>
+        <item>	knee	</item>
+        <item>	knife	</item>
+        <item>	knot	</item>
+        <item>	knowledge	</item>
+        <item>	laborer	</item>
+        <item>	lace	</item>
+        <item>	ladybug	</item>
+        <item>	lake	</item>
+        <item>	lamp	</item>
+        <item>	land	</item>
+        <item>	language	</item>
+        <item>	laugh	</item>
+        <item>	lawyer	</item>
+        <item>	lead	</item>
+        <item>	leaf	</item>
+        <item>	learning	</item>
+        <item>	leather	</item>
+        <item>	leg 	</item>
+        <item>	legs	</item>
+        <item>	letter	</item>
+        <item>	letters 	</item>
+        <item>	lettuce	</item>
+        <item>	level	</item>
+        <item>	library	</item>
+        <item>	lift	</item>
+        <item>	light	</item>
+        <item>	limit	</item>
+        <item>	line	</item>
+        <item>	linen	</item>
+        <item>	lip	</item>
+        <item>	liquid	</item>
+        <item>	list	</item>
+        <item>	lizard	</item>
+        <item>	loaf	</item>
+        <item>	lock	</item>
+        <item>	locket	</item>
+        <item>	look	</item>
+        <item>	love	</item>
+        <item>	low	</item>
+        <item>	lumber	</item>
+        <item>	lunch	</item>
+        <item>	lunchroom	</item>
+        <item>	machine	</item>
+        <item>	magic	</item>
+        <item>	maid	</item>
+        <item>	mailbox	</item>
+        <item>	man	</item>
+        <item>	manager	</item>
+        <item>	map	</item>
+        <item>	marble	</item>
+        <item>	mark	</item>
+        <item>	market	</item>
+        <item>	mask	</item>
+        <item>	mass	</item>
+        <item>	match	</item>
+        <item>	meal	</item>
+        <item>	measure	</item>
+        <item>	meat	</item>
+        <item>	meeting	</item>
+        <item>	memory	</item>
+        <item>	men	</item>
+        <item>	metal	</item>
+        <item>	mice 	</item>
+        <item>	middle	</item>
+        <item>	milk	</item>
+        <item>	mind	</item>
+        <item>	mine	</item>
+        <item>	minister	</item>
+        <item>	mint	</item>
+        <item>	minute	</item>
+        <item>	mist	</item>
+        <item>	mitten	</item>
+        <item>	mom	</item>
+        <item>	money	</item>
+        <item>	monkey	</item>
+        <item>	month	</item>
+        <item>	moon	</item>
+        <item>	morning	</item>
+        <item>	mother	</item>
+        <item>	motion	</item>
+        <item>	mountain	</item>
+        <item>	mouth	</item>
+        <item>	move	</item>
+        <item>	muscle	</item>
+        <item>	music	</item>
+        <item>	nail	</item>
+        <item>	name	</item>
+        <item>	nation	</item>
+        <item>	neck	</item>
+        <item>	need	</item>
+        <item>	needle	</item>
+        <item>	nerve	</item>
+        <item>	nest 	</item>
+        <item>	net	</item>
+        <item>	news	</item>
+        <item>	night	</item>
+        <item>	noise	</item>
+        <item>	north	</item>
+        <item>	nose	</item>
+        <item>	note	</item>
+        <item>	notebook	</item>
+        <item>	number	</item>
+        <item>	nut	</item>
+        <item>	oatmeal	</item>
+        <item>	observation	</item>
+        <item>	ocean	</item>
+        <item>	offer	</item>
+        <item>	office	</item>
+        <item>	oil	</item>
+        <item>	operation	</item>
+        <item>	opinion	</item>
+        <item>	orange	</item>
+        <item>	oranges 	</item>
+        <item>	order	</item>
+        <item>	organization	</item>
+        <item>	ornament	</item>
+        <item>	oven	</item>
+        <item>	owl	</item>
+        <item>	owner	</item>
+        <item>	page	</item>
+        <item>	pail	</item>
+        <item>	pain	</item>
+        <item>	paint	</item>
+        <item>	pan	</item>
+        <item>	pancake	</item>
+        <item>	paper	</item>
+        <item>	parcel	</item>
+        <item>	parent	</item>
+        <item>	park	</item>
+        <item>	part	</item>
+        <item>	partner	</item>
+        <item>	party	</item>
+        <item>	passenger	</item>
+        <item>	paste	</item>
+        <item>	patch	</item>
+        <item>	payment	</item>
+        <item>	peace	</item>
+        <item>	pear	</item>
+        <item>	pen	</item>
+        <item>	pencil	</item>
+        <item>	person	</item>
+        <item>	pest	</item>
+        <item>	pet	</item>
+        <item>	pets 	</item>
+        <item>	pickle	</item>
+        <item>	picture	</item>
+        <item>	pie	</item>
+        <item>	pies 	</item>
+        <item>	pig	</item>
+        <item>	pigs 	</item>
+        <item>	pin	</item>
+        <item>	pipe	</item>
+        <item>	pizza	</item>
+        <item>	place	</item>
+        <item>	plane 	</item>
+        <item>	plant	</item>
+        <item>	plantation	</item>
+        <item>	plastic	</item>
+        <item>	plate	</item>
+        <item>	play	</item>
+        <item>	playground	</item>
+        <item>	pleasure	</item>
+        <item>	plot	</item>
+        <item>	plough	</item>
+        <item>	pocket	</item>
+        <item>	point	</item>
+        <item>	poison	</item>
+        <item>	police	</item>
+        <item>	polish	</item>
+        <item>	pollution	</item>
+        <item>	popcorn	</item>
+        <item>	porter	</item>
+        <item>	position	</item>
+        <item>	pot	</item>
+        <item>	potato	</item>
+        <item>	powder	</item>
+        <item>	power	</item>
+        <item>	price	</item>
+        <item>	print	</item>
+        <item>	prison	</item>
+        <item>	process	</item>
+        <item>	produce	</item>
+        <item>	profit	</item>
+        <item>	property	</item>
+        <item>	prose	</item>
+        <item>	protest	</item>
+        <item>	pull	</item>
+        <item>	pump	</item>
+        <item>	punishment	</item>
+        <item>	purpose	</item>
+        <item>	push	</item>
+        <item>	quarter	</item>
+        <item>	quartz	</item>
+        <item>	queen	</item>
+        <item>	question	</item>
+        <item>	quicksand	</item>
+        <item>	quiet	</item>
+        <item>	quill	</item>
+        <item>	quilt	</item>
+        <item>	quince	</item>
+        <item>	quiver	</item>
+        <item>	rabbit 	</item>
+        <item>	rail	</item>
+        <item>	railway	</item>
+        <item>	rain	</item>
+        <item>	rainstorm	</item>
+        <item>	rake	</item>
+        <item>	range	</item>
+        <item>	rat	</item>
+        <item>	rate	</item>
+        <item>	ray	</item>
+        <item>	reaction	</item>
+        <item>	reading	</item>
+        <item>	reason	</item>
+        <item>	receipt	</item>
+        <item>	recess	</item>
+        <item>	record	</item>
+        <item>	regret	</item>
+        <item>	relation	</item>
+        <item>	religion	</item>
+        <item>	representative	</item>
+        <item>	request	</item>
+        <item>	respect	</item>
+        <item>	rest	</item>
+        <item>	reward	</item>
+        <item>	rhythm	</item>
+        <item>	rice	</item>
+        <item>	riddle	</item>
+        <item>	rifle	</item>
+        <item>	ring	</item>
+        <item>	rings 	</item>
+        <item>	river	</item>
+        <item>	road	</item>
+        <item>	robin 	</item>
+        <item>	rock	</item>
+        <item>	rod	</item>
+        <item>	roll	</item>
+        <item>	roof	</item>
+        <item>	room	</item>
+        <item>	root	</item>
+        <item>	rose	</item>
+        <item>	route	</item>
+        <item>	rub	</item>
+        <item>	rule	</item>
+        <item>	run	</item>
+        <item>	sack	</item>
+        <item>	sail	</item>
+        <item>	salt	</item>
+        <item>	sand	</item>
+        <item>	scale	</item>
+        <item>	scarecrow	</item>
+        <item>	scarf	</item>
+        <item>	scene	</item>
+        <item>	scent	</item>
+        <item>	school	</item>
+        <item>	science	</item>
+        <item>	scissor	</item>
+        <item>	screw	</item>
+        <item>	sea	</item>
+        <item>	seashore	</item>
+        <item>	seat	</item>
+        <item>	secretary	</item>
+        <item>	seed	</item>
+        <item>	selection	</item>
+        <item>	self	</item>
+        <item>	sense	</item>
+        <item>	servant	</item>
+        <item>	shade	</item>
+        <item>	shake	</item>
+        <item>	shame	</item>
+        <item>	shape	</item>
+        <item>	sheep	</item>
+        <item>	sheet	</item>
+        <item>	shelf	</item>
+        <item>	ship	</item>
+        <item>	shirt	</item>
+        <item>	shock	</item>
+        <item>	shoe	</item>
+        <item>	shop	</item>
+        <item>	show	</item>
+        <item>	side	</item>
+        <item>	sidewalk	</item>
+        <item>	sign	</item>
+        <item>	silk	</item>
+        <item>	silver	</item>
+        <item>	sink	</item>
+        <item>	sister	</item>
+        <item>	size	</item>
+        <item>	skate	</item>
+        <item>	skin	</item>
+        <item>	skirt	</item>
+        <item>	sky	</item>
+        <item>	slave	</item>
+        <item>	sleep	</item>
+        <item>	sleet	</item>
+        <item>	slip	</item>
+        <item>	slope	</item>
+        <item>	smash	</item>
+        <item>	smell	</item>
+        <item>	smile	</item>
+        <item>	smoke	</item>
+        <item>	snail	</item>
+        <item>	snake	</item>
+        <item>	sneeze	</item>
+        <item>	snow	</item>
+        <item>	soap	</item>
+        <item>	society	</item>
+        <item>	sock	</item>
+        <item>	soda	</item>
+        <item>	sofa	</item>
+        <item>	son	</item>
+        <item>	song	</item>
+        <item>	songs 	</item>
+        <item>	sort	</item>
+        <item>	sound	</item>
+        <item>	soup	</item>
+        <item>	space	</item>
+        <item>	spade	</item>
+        <item>	spark	</item>
+        <item>	spiders 	</item>
+        <item>	sponge	</item>
+        <item>	spoon	</item>
+        <item>	spot	</item>
+        <item>	spring	</item>
+        <item>	spy	</item>
+        <item>	square	</item>
+        <item>	squirrel	</item>
+        <item>	stage	</item>
+        <item>	stamp	</item>
+        <item>	star	</item>
+        <item>	start	</item>
+        <item>	statement	</item>
+        <item>	station	</item>
+        <item>	steam	</item>
+        <item>	steel	</item>
+        <item>	stem	</item>
+        <item>	step	</item>
+        <item>	stew	</item>
+        <item>	stick	</item>
+        <item>	sticks 	</item>
+        <item>	stitch	</item>
+        <item>	stocking	</item>
+        <item>	stomach	</item>
+        <item>	stone	</item>
+        <item>	stop	</item>
+        <item>	store	</item>
+        <item>	story	</item>
+        <item>	stove	</item>
+        <item>	stranger	</item>
+        <item>	straw	</item>
+        <item>	stream	</item>
+        <item>	street	</item>
+        <item>	stretch	</item>
+        <item>	string	</item>
+        <item>	structure	</item>
+        <item>	substance	</item>
+        <item>	sugar	</item>
+        <item>	suggestion	</item>
+        <item>	suit	</item>
+        <item>	summer	</item>
+        <item>	sun	</item>
+        <item>	support	</item>
+        <item>	surprise	</item>
+        <item>	sweater	</item>
+        <item>	swim	</item>
+        <item>	swing	</item>
+        <item>	system	</item>
+        <item>	table	</item>
+        <item>	tail	</item>
+        <item>	talk	</item>
+        <item>	tank	</item>
+        <item>	taste	</item>
+        <item>	tax	</item>
+        <item>	teaching	</item>
+        <item>	team	</item>
+        <item>	teeth 	</item>
+        <item>	temper	</item>
+        <item>	tendency	</item>
+        <item>	tent	</item>
+        <item>	territory	</item>
+        <item>	test	</item>
+        <item>	texture	</item>
+        <item>	theory	</item>
+        <item>	thing	</item>
+        <item>	thought	</item>
+        <item>	thread	</item>
+        <item>	thrill	</item>
+        <item>	throat	</item>
+        <item>	throne	</item>
+        <item>	thumb	</item>
+        <item>	thunder	</item>
+        <item>	ticket	</item>
+        <item>	tiger	</item>
+        <item>	time	</item>
+        <item>	tin	</item>
+        <item>	title	</item>
+        <item>	toad	</item>
+        <item>	toe	</item>
+        <item>	tomatoe 	</item>
+        <item>	tongue	</item>
+        <item>	tooth	</item>
+        <item>	toothbrush	</item>
+        <item>	toothpaste	</item>
+        <item>	top 	</item>
+        <item>	touch	</item>
+        <item>	town	</item>
+        <item>	toy 	</item>
+        <item>	toys 	</item>
+        <item>	trade	</item>
+        <item>	trail	</item>
+        <item>	train	</item>
+        <item>	tramp	</item>
+        <item>	transport	</item>
+        <item>	tray	</item>
+        <item>	treatment	</item>
+        <item>	tree	</item>
+        <item>	trees 	</item>
+        <item>	trick	</item>
+        <item>	trip	</item>
+        <item>	trouble	</item>
+        <item>	trouser	</item>
+        <item>	truck 	</item>
+        <item>	tub	</item>
+        <item>	turkey	</item>
+        <item>	turn	</item>
+        <item>	twig	</item>
+        <item>	twist	</item>
+        <item>	umbrella	</item>
+        <item>	uncle	</item>
+        <item>	underwear	</item>
+        <item>	unit	</item>
+        <item>	use	</item>
+        <item>	vacation	</item>
+        <item>	value	</item>
+        <item>	van	</item>
+        <item>	vase	</item>
+        <item>	vegetable	</item>
+        <item>	veil	</item>
+        <item>	vein	</item>
+        <item>	verse	</item>
+        <item>	vessel	</item>
+        <item>	vest	</item>
+        <item>	view	</item>
+        <item>	visitor	</item>
+        <item>	voice	</item>
+        <item>	volcano	</item>
+        <item>	volleyball	</item>
+        <item>	voyage	</item>
+        <item>	walk	</item>
+        <item>	wall	</item>
+        <item>	war	</item>
+        <item>	wash	</item>
+        <item>	waste	</item>
+        <item>	watch	</item>
+        <item>	water	</item>
+        <item>	wave	</item>
+        <item>	waves 	</item>
+        <item>	wax	</item>
+        <item>	way	</item>
+        <item>	wealth	</item>
+        <item>	weather	</item>
+        <item>	week	</item>
+        <item>	weight	</item>
+        <item>	wheel	</item>
+        <item>	whip	</item>
+        <item>	whistle	</item>
+        <item>	wilderness	</item>
+        <item>	wind 	</item>
+        <item>	window 	</item>
+        <item>	wine	</item>
+        <item>	wing	</item>
+        <item>	winter	</item>
+        <item>	wire	</item>
+        <item>	wish	</item>
+        <item>	woman	</item>
+        <item>	women	</item>
+        <item>	wood	</item>
+        <item>	wool	</item>
+        <item>	word	</item>
+        <item>	work	</item>
+        <item>	worm	</item>
+        <item>	wound	</item>
+        <item>	wren	</item>
+        <item>	wrench	</item>
+        <item>	wrist	</item>
+        <item>	writer	</item>
+        <item>	writing	</item>
+        <item>	yak	</item>
+        <item>	yam	</item>
+        <item>	yard	</item>
+        <item>	yarn	</item>
+        <item>	year	</item>
+        <item>	yoke	</item>
+        <item>	zebra 	</item>
+        <item>	zephyr	</item>
+        <item>	zinc	</item>
+        <item>	zipper	</item>
+        <item>	zoo	</item>
 
 
 
     </string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 </resources>
 

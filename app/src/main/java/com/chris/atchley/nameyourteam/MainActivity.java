@@ -1,5 +1,6 @@
 package com.chris.atchley.nameyourteam;
 
+import android.content.res.Resources;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -16,15 +17,19 @@ public class MainActivity extends AppCompatActivity {
     Button mThreeWordAnimalButton;
     TextView mNameTextView;
 
-    String[] adjectives =  this.getResources().getStringArray(R.array.adjectives);
-    String[] animals =  this.getResources().getStringArray(R.array.adjectives);
-    String[] objects =  this.getResources().getStringArray(R.array.objects);
 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+
+        Resources res = getResources();
+
+        final String[] adjectives =  res.getStringArray(R.array.adjectives);
+       final String[] animals =  res.getStringArray(R.array.animals);
+       final String[] objects =  res.getStringArray(R.array.objects);
 
         mTwoWordAnimalButton = (Button)findViewById(R.id.twoWordAnimal);
         mThreeWordAnimalButton = (Button)findViewById(R.id.threeWordAnimal);
@@ -34,12 +39,14 @@ public class MainActivity extends AppCompatActivity {
         mNameTextView.setText("Team Name");
 
 
+
         mTwoWordAnimalButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 String firstWord = adjectives[new Random().nextInt(adjectives.length)];
                 String secondWord = animals[new Random().nextInt(animals.length)];
-                mNameTextView.setText(firstWord + " " + secondWord);
+                mNameTextView.setText(firstWord + " " + secondWord + "s");
+                mNameTextView.setAllCaps(true);
             }
         });
 
@@ -49,7 +56,8 @@ public class MainActivity extends AppCompatActivity {
                 String firstWord = adjectives[new Random().nextInt(adjectives.length)];
                 String secondWord = adjectives[new Random().nextInt(adjectives.length)];
                 String thirdWord = animals[new Random().nextInt(animals.length)];
-                mNameTextView.setText(firstWord + " " + secondWord + " " + thirdWord);
+                mNameTextView.setText(firstWord + " " + secondWord + " " + thirdWord + "s");
+                mNameTextView.setAllCaps(true);
             }
         });
 
@@ -58,7 +66,8 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 String firstWord = adjectives[new Random().nextInt(adjectives.length)];
                 String secondWord = objects[new Random().nextInt(objects.length)];
-                mNameTextView.setText(firstWord + " " + secondWord);
+                mNameTextView.setText(firstWord + " " + secondWord + "s");
+                mNameTextView.setAllCaps(true);
             }
         });
 
@@ -68,7 +77,8 @@ public class MainActivity extends AppCompatActivity {
                 String firstWord = adjectives[new Random().nextInt(adjectives.length)];
                 String secondWord = adjectives[new Random().nextInt(adjectives.length)];
                 String thirdWord = objects[new Random().nextInt(objects.length)];
-                mNameTextView.setText(firstWord + " " + secondWord + " " + thirdWord);
+                mNameTextView.setText(firstWord + " " + secondWord + " " + thirdWord + "s");
+                mNameTextView.setAllCaps(true);
             }
         });
 
