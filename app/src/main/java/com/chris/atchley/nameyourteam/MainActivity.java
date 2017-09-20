@@ -18,7 +18,6 @@ public class MainActivity extends AppCompatActivity {
     TextView mNameTextView;
 
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -27,17 +26,16 @@ public class MainActivity extends AppCompatActivity {
 
         Resources res = getResources();
 
-        final String[] adjectives =  res.getStringArray(R.array.adjectives);
-       final String[] animals =  res.getStringArray(R.array.animals);
-       final String[] objects =  res.getStringArray(R.array.objects);
+        final String[] adjectives = res.getStringArray(R.array.adjectives);
+        final String[] animals = res.getStringArray(R.array.animals);
+        final String[] objects = res.getStringArray(R.array.objects);
 
-        mTwoWordAnimalButton = (Button)findViewById(R.id.twoWordAnimal);
-        mThreeWordAnimalButton = (Button)findViewById(R.id.threeWordAnimal);
-        mTwoWordObjectButton = (Button)findViewById(R.id.twoWordObject);
-        mThreeWordObjectButton = (Button)findViewById(R.id.threeWordObject);
-        mNameTextView = (TextView)findViewById(R.id.nameTextView);
+        mTwoWordAnimalButton = (Button) findViewById(R.id.twoWordAnimal);
+        mThreeWordAnimalButton = (Button) findViewById(R.id.threeWordAnimal);
+        mTwoWordObjectButton = (Button) findViewById(R.id.twoWordObject);
+        mThreeWordObjectButton = (Button) findViewById(R.id.threeWordObject);
+        mNameTextView = (TextView) findViewById(R.id.nameTextView);
         mNameTextView.setText("Team Name");
-
 
 
         mTwoWordAnimalButton.setOnClickListener(new View.OnClickListener() {
@@ -81,10 +79,6 @@ public class MainActivity extends AppCompatActivity {
                 mNameTextView.setAllCaps(true);
             }
         });
-
-
-
-
 
 
     }
