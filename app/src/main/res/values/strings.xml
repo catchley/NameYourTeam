@@ -1903,106 +1903,47 @@
 
     <string-array name="animals">
         <item>	Aardvark	</item>
-        <item>	Abyssinian	</item>
-        <item>	Adelie Penguin	</item>
-        <item>	Affenpinscher	</item>
-        <item>	Afghan Hound	</item>
-        <item>	African Bush Elephant	</item>
-        <item>	African Civet	</item>
-        <item>	African Clawed Frog	</item>
-        <item>	African Forest Elephant	</item>
-        <item>	African Palm Civet	</item>
-        <item>	African Penguin	</item>
-        <item>	African Tree Toad	</item>
-        <item>	African Wild Dog	</item>
-        <item>	Ainu Dog	</item>
-        <item>	Airedale Terrier	</item>
-        <item>	Akbash	</item>
-        <item>	Akita	</item>
         <item>	Alaskan Malamute	</item>
         <item>	Albatross	</item>
-        <item>	Aldabra Giant Tortoise	</item>
         <item>	Alligator	</item>
-        <item>	Alpine Dachsbracke	</item>
-        <item>	American Bulldog	</item>
-        <item>	American Cocker Spaniel	</item>
-        <item>	American Coonhound	</item>
-        <item>	American Eskimo Dog	</item>
-        <item>	American Foxhound	</item>
-        <item>	American Pit Bull Terrier	</item>
-        <item>	American Staffordshire Terrier	</item>
-        <item>	American Water Spaniel	</item>
-        <item>	Anatolian Shepherd Dog	</item>
         <item>	Angelfish	</item>
         <item>	Ant	</item>
         <item>	Anteater	</item>
         <item>	Antelope	</item>
-        <item>	Appenzeller Dog	</item>
         <item>	Arctic Fox	</item>
         <item>	Arctic Hare	</item>
         <item>	Arctic Wolf	</item>
         <item>	Armadillo	</item>
-        <item>	Asian Elephant	</item>
-        <item>	Asian Giant Hornet	</item>
-        <item>	Asian Palm Civet	</item>
-        <item>	Asiatic Black Bear	</item>
-        <item>	Australian Cattle Dog	</item>
-        <item>	Australian Kelpie Dog	</item>
-        <item>	Australian Mist	</item>
-        <item>	Australian Shepherd	</item>
-        <item>	Australian Terrier	</item>
-        <item>	Avocet	</item>
-        <item>	Axolotl	</item>
-        <item>	Aye Aye	</item>
         <item>	Baboon	</item>
-        <item>	Bactrian Camel	</item>
         <item>	Badger	</item>
-        <item>	Balinese	</item>
-        <item>	Banded Palm Civet	</item>
         <item>	Bandicoot	</item>
         <item>	Barb	</item>
         <item>	Barn Owl	</item>
         <item>	Barnacle	</item>
         <item>	Barracuda	</item>
-        <item>	Basenji Dog	</item>
-        <item>	Basking Shark	</item>
         <item>	Basset Hound	</item>
         <item>	Bat	</item>
-        <item>	Bavarian Mountain Hound	</item>
         <item>	Beagle	</item>
         <item>	Bear	</item>
         <item>	Bearded Collie	</item>
         <item>	Bearded Dragon	</item>
         <item>	Beaver	</item>
-        <item>	Bedlington Terrier	</item>
         <item>	Beetle	</item>
         <item>	Bengal Tiger	</item>
-        <item>	Bernese Mountain Dog	</item>
         <item>	Bichon Frise	</item>
-        <item>	Binturong	</item>
         <item>	Bird	</item>
-        <item>	Birds Of Paradise	</item>
-        <item>	Birman	</item>
         <item>	Bison	</item>
         <item>	Black Bear	</item>
-        <item>	Black Rhinoceros	</item>
-        <item>	Black Russian Terrier	</item>
         <item>	Black Widow Spider	</item>
         <item>	Bloodhound	</item>
         <item>	Blue Lacy Dog	</item>
         <item>	Blue Whale	</item>
         <item>	Bluetick Coonhound	</item>
         <item>	Bobcat	</item>
-        <item>	Bolognese Dog	</item>
         <item>	Bombay	</item>
         <item>	Bongo	</item>
-        <item>	Bonobo	</item>
         <item>	Booby	</item>
         <item>	Border Collie	</item>
-        <item>	Border Terrier	</item>
-        <item>	Bornean Orang-utan	</item>
-        <item>	Borneo Elephant	</item>
-        <item>	Boston Terrier	</item>
         <item>	Bottle Nosed Dolphin	</item>
         <item>	Boxer Dog	</item>
         <item>	Boykin Spaniel	</item>
@@ -2017,12 +1958,8 @@
         <item>	Bullfrog	</item>
         <item>	Bumble Bee	</item>
         <item>	Burmese	</item>
-        <item>	Burrowing Frog	</item>
         <item>	Butterfly	</item>
-        <item>	Butterfly Fish	</item>
         <item>	Caiman	</item>
-        <item>	Caiman Lizard	</item>
-        <item>	Cairn Terrier	</item>
         <item>	Camel	</item>
         <item>	Canaan Dog	</item>
         <item>	Capybara	</item>
@@ -2032,13 +1969,10 @@
         <item>	Cat	</item>
         <item>	Caterpillar	</item>
         <item>	Catfish	</item>
-        <item>	Cavalier King Charles Spaniel	</item>
         <item>	Centipede	</item>
-        <item>	Cesky Fousek	</item>
         <item>	Chameleon	</item>
         <item>	Chamois	</item>
         <item>	Cheetah	</item>
-        <item>	Chesapeake Bay Retriever	</item>
         <item>	Chicken	</item>
         <item>	Chihuahua	</item>
         <item>	Chimpanzee	</item>
@@ -2048,11 +1982,8 @@
         <item>	Chinstrap Penguin	</item>
         <item>	Chipmunk	</item>
         <item>	Chow Chow	</item>
-        <item>	Cichlid	</item>
         <item>	Clouded Leopard	</item>
         <item>	Clown Fish	</item>
-        <item>	Clumber Spaniel	</item>
-        <item>	Coati	</item>
         <item>	Cockroach	</item>
         <item>	Collared Peccary	</item>
         <item>	Collie	</item>
@@ -2061,32 +1992,23 @@
         <item>	Common Loon	</item>
         <item>	Common Toad	</item>
         <item>	Coral	</item>
-        <item>	Cottontop Tamarin	</item>
         <item>	Cougar	</item>
         <item>	Cow	</item>
         <item>	Coyote	</item>
         <item>	Crab	</item>
-        <item>	Crab-Eating Macaque	</item>
         <item>	Crane	</item>
         <item>	Crested Penguin	</item>
         <item>	Crocodile	</item>
-        <item>	Cross River Gorilla	</item>
-        <item>	Curly Coated Retriever	</item>
         <item>	Cuscus	</item>
         <item>	Cuttlefish	</item>
         <item>	Dachshund	</item>
         <item>	Dalmatian	</item>
         <item>	Deer	</item>
-        <item>	Desert Tortoise	</item>
-        <item>	Deutsche Bracke	</item>
-        <item>	Dhole	</item>
         <item>	Dingo	</item>
         <item>	Discus	</item>
         <item>	Doberman Pinscher	</item>
         <item>	Dodo	</item>
         <item>	Dog	</item>
-        <item>	Dogo Argentino	</item>
-        <item>	Dogue De Bordeaux	</item>
         <item>	Dolphin	</item>
         <item>	Donkey	</item>
         <item>	Dormouse	</item>
@@ -2099,8 +2021,6 @@
         <item>	Dwarf Crocodile	</item>
         <item>	Eagle	</item>
         <item>	Earwig	</item>
-        <item>	Eastern Gorilla	</item>
-        <item>	Eastern Lowland Gorilla	</item>
         <item>	Echidna	</item>
         <item>	Edible Frog	</item>
         <item>	Egyptian Mau	</item>
@@ -2111,15 +2031,7 @@
         <item>	Emperor Penguin	</item>
         <item>	Emperor Tamarin	</item>
         <item>	Emu	</item>
-        <item>	English Cocker Spaniel	</item>
-        <item>	English Shepherd	</item>
-        <item>	English Springer Spaniel	</item>
-        <item>	Entlebucher Mountain Dog	</item>
-        <item>	Epagneul Pont Audemer	</item>
-        <item>	Eskimo Dog	</item>
-        <item>	Estrela Mountain Dog	</item>
         <item>	Falcon	</item>
-        <item>	Fennec Fox	</item>
         <item>	Ferret	</item>
         <item>	Field Spaniel	</item>
         <item>	Fin Whale	</item>
@@ -2128,11 +2040,9 @@
         <item>	Fish	</item>
         <item>	Fishing Cat	</item>
         <item>	Flamingo	</item>
-        <item>	Flat Coat Retriever	</item>
         <item>	Flounder	</item>
         <item>	Fly	</item>
         <item>	Flying Squirrel	</item>
-        <item>	Fossa	</item>
         <item>	Fox	</item>
         <item>	Fox Terrier	</item>
         <item>	French Bulldog	</item>
@@ -2147,12 +2057,6 @@
         <item>	Gentoo Penguin	</item>
         <item>	Geoffroys Tamarin	</item>
         <item>	Gerbil	</item>
-        <item>	German Pinscher	</item>
-        <item>	German Shepherd	</item>
-        <item>	Gharial	</item>
-        <item>	Giant African Land Snail	</item>
-        <item>	Giant Clam	</item>
-        <item>	Giant Panda Bear	</item>
         <item>	Giant Schnauzer	</item>
         <item>	Gibbon	</item>
         <item>	Gila Monster	</item>
@@ -2160,7 +2064,6 @@
         <item>	Glass Lizard	</item>
         <item>	Glow Worm	</item>
         <item>	Goat	</item>
-        <item>	Golden Lion Tamarin	</item>
         <item>	Golden Oriole	</item>
         <item>	Golden Retriever	</item>
         <item>	Goose	</item>
@@ -2169,10 +2072,6 @@
         <item>	Grasshopper	</item>
         <item>	Great Dane	</item>
         <item>	Great White Shark	</item>
-        <item>	Greater Swiss Mountain Dog	</item>
-        <item>	Green Bee-Eater	</item>
-        <item>	Greenland Dog	</item>
-        <item>	Grey Mouse Lemur	</item>
         <item>	Grey Reef Shark	</item>
         <item>	Grey Seal	</item>
         <item>	Greyhound	</item>
@@ -2185,12 +2084,10 @@
         <item>	Hamster	</item>
         <item>	Hare	</item>
         <item>	Harrier	</item>
-        <item>	Havanese	</item>
         <item>	Hedgehog	</item>
         <item>	Hercules Beetle	</item>
         <item>	Hermit Crab	</item>
         <item>	Heron	</item>
-        <item>	Highland Cattle	</item>
         <item>	Himalayan	</item>
         <item>	Hippopotamus	</item>
         <item>	Honey Bee	</item>
@@ -2200,29 +2097,18 @@
         <item>	Horseshoe Crab	</item>
         <item>	Howler Monkey	</item>
         <item>	Human	</item>
-        <item>	Humboldt Penguin	</item>
         <item>	Hummingbird	</item>
         <item>	Humpback Whale	</item>
         <item>	Hyena	</item>
         <item>	Ibis	</item>
-        <item>	Ibizan Hound	</item>
         <item>	Iguana	</item>
         <item>	Impala	</item>
-        <item>	Indian Elephant	</item>
-        <item>	Indian Palm Squirrel	</item>
-        <item>	Indian Rhinoceros	</item>
-        <item>	Indian Star Tortoise	</item>
-        <item>	Indochinese Tiger	</item>
-        <item>	Indri	</item>
         <item>	Insect	</item>
         <item>	Irish Setter	</item>
         <item>	Irish WolfHound	</item>
         <item>	Jack Russel	</item>
         <item>	Jackal	</item>
         <item>	Jaguar	</item>
-        <item>	Japanese Chin	</item>
-        <item>	Japanese Macaque	</item>
-        <item>	Javan Rhinoceros	</item>
         <item>	Javanese	</item>
         <item>	Jellyfish	</item>
         <item>	Kakapo	</item>
@@ -2249,7 +2135,6 @@
         <item>	Liger	</item>
         <item>	Lion	</item>
         <item>	Lionfish	</item>
-        <item>	Little Penguin	</item>
         <item>	Lizard	</item>
         <item>	Llama	</item>
         <item>	Lobster	</item>
@@ -2259,17 +2144,11 @@
         <item>	Macaw	</item>
         <item>	Magellanic Penguin	</item>
         <item>	Magpie	</item>
-        <item>	Maine Coon	</item>
-        <item>	Malayan Civet	</item>
-        <item>	Malayan Tiger	</item>
         <item>	Maltese	</item>
         <item>	Manatee	</item>
         <item>	Mandrill	</item>
         <item>	Manta Ray	</item>
         <item>	Marine Toad	</item>
-        <item>	Markhor	</item>
-        <item>	Marsh Frog	</item>
-        <item>	Masked Palm Civet	</item>
         <item>	Mastiff	</item>
         <item>	Mayfly	</item>
         <item>	Meerkat	</item>
@@ -2295,9 +2174,6 @@
         <item>	Newfoundland	</item>
         <item>	Newt	</item>
         <item>	Nightingale	</item>
-        <item>	Norfolk Terrier	</item>
-        <item>	Norwegian Forest	</item>
-        <item>	Numbat	</item>
         <item>	Nurse Shark	</item>
         <item>	Ocelot	</item>
         <item>	Octopus	</item>
@@ -2319,7 +2195,6 @@
         <item>	Pheasant	</item>
         <item>	Pig	</item>
         <item>	Pike	</item>
-        <item>	Pink Fairy Armadillo	</item>
         <item>	Piranha	</item>
         <item>	Platypus	</item>
         <item>	Pointer	</item>
@@ -2331,22 +2206,16 @@
         <item>	Porcupine	</item>
         <item>	Possum	</item>
         <item>	Prawn	</item>
-        <item>	Proboscis Monkey	</item>
         <item>	Puffer Fish	</item>
         <item>	Puffin	</item>
         <item>	Pug	</item>
         <item>	Puma	</item>
-        <item>	Purple Emperor	</item>
-        <item>	Puss Moth	</item>
-        <item>	Pygmy Hippopotamus	</item>
-        <item>	Pygmy Marmoset	</item>
         <item>	Quail	</item>
         <item>	Quetzal	</item>
         <item>	Quokka	</item>
         <item>	Quoll	</item>
         <item>	Rabbit	</item>
         <item>	Raccoon	</item>
-        <item>	Raccoon Dog	</item>
         <item>	Radiated Tortoise	</item>
         <item>	Ragdoll	</item>
         <item>	Rat	</item>
@@ -2356,10 +2225,7 @@
         <item>	Wolf	</item>
         <item>	Reindeer	</item>
         <item>	Rhinoceros	</item>
-        <item>	River Dolphin	</item>
-        <item>	River Turtle	</item>
         <item>	Robin	</item>
-        <item>	Rock Hyrax	</item>
         <item>	Rockhopper Penguin	</item>
         <item>	Roseate Spoonbill	</item>
         <item>	Rottweiler	</item>
@@ -2389,8 +2255,6 @@
         <item>	Siamese Fighting Fish	</item>
         <item>	Siberian	</item>
         <item>	Siberian Husky	</item>
-        <item>	Siberian Tiger	</item>
-        <item>	Silver Dollar	</item>
         <item>	Skunk	</item>
         <item>	Sloth	</item>
         <item>	Slow Worm	</item>
@@ -2406,7 +2270,6 @@
         <item>	Bear	</item>
         <item>	Sperm Whale	</item>
         <item>	Spider Monkey	</item>
-        <item>	Spiny Dogfish	</item>
         <item>	Sponge	</item>
         <item>	Squid	</item>
         <item>	Squirrel	</item>
@@ -2418,17 +2281,10 @@
         <item>	Sea Cow	</item>
         <item>	Stick Insect	</item>
         <item>	Stingray	</item>
-        <item>	Stoat	</item>
-        <item>	Striped Rocket Frog	</item>
-        <item>	Sumatran Elephant	</item>
-        <item>	Sumatran Orang-utan	</item>
-        <item>	Sumatran Rhinoceros	</item>
-        <item>	Sumatran Tiger	</item>
         <item>	Sun Bear	</item>
         <item>	Swan	</item>
         <item>	Tang	</item>
         <item>	Tapir	</item>
-        <item>	Tarsier	</item>
         <item>	Tasmanian Devil	</item>
         <item>	Tawny Owl	</item>
         <item>	Termite	</item>
@@ -2437,20 +2293,13 @@
         <item>	Tibetan Mastiff	</item>
         <item>	Tiffany	</item>
         <item>	Tiger	</item>
-        <item>	Tiger Salamander	</item>
-        <item>	Tiger Shark	</item>
         <item>	Tortoise	</item>
         <item>	Toucan	</item>
         <item>	Tree Frog	</item>
         <item>	Tropicbird	</item>
-        <item>	Tuatara	</item>
         <item>	Turkey	</item>
-        <item>	Turkish Angora	</item>
-        <item>	Uakari	</item>
-        <item>	Uguisu	</item>
         <item>	Umbrellabird	</item>
         <item>	Vampire Bat	</item>
-        <item>	Vervet Monkey	</item>
         <item>	Vulture	</item>
         <item>	Wallaby	</item>
         <item>	Walrus	</item>
@@ -2460,12 +2309,12 @@
         <item>	Dragon	</item>
         <item>	Water Vole	</item>
         <item>	Weasel	</item>
-        <item>	Welsh Corgi	</item>
+        <item>	Corgi	</item>
         <item>	 Terrier	</item>
         <item>	 Gorilla	</item>
         <item>	Whale Shark	</item>
         <item>	Whippet	</item>
-        <item>	White Rhinoceros	</item>
+        <item>	Rhinoceros	</item>
         <item>	White Tiger	</item>
         <item>	Wild Boar	</item>
         <item>	Wildebeest	</item>
@@ -2475,9 +2324,6 @@
         <item>	Woodlouse	</item>
         <item>	Woodpecker	</item>
         <item>	Woolly Mammoth	</item>
-        <item>	Woolly Monkey	</item>
-        <item>	Wrasse	</item>
-        <item>	X-Ray Tetra	</item>
         <item>	Yak	</item>
         <item>	Yellow-Eyed Penguin	</item>
         <item>	Yorkshire Terrier	</item>
@@ -3450,8 +3296,130 @@
     </string-array>
 
 
+    <string-array name="colors">
+
+        <item>	amber	</item>
+        <item>	amethyst	</item>
+        <item>	apricot	</item>
+        <item>	aqua	</item>
+        <item>	aquamarine	</item>
+        <item>	auburn	</item>
+        <item>	azure	</item>
+        <item>	beige	</item>
+        <item>	black	</item>
+        <item>	blue	</item>
+        <item>	bronze	</item>
+        <item>	brown	</item>
+        <item>	buff	</item>
+        <item>	burnt umber	</item>
+        <item>	cardinal	</item>
+        <item>	carmine	</item>
+        <item>	celadon	</item>
+        <item>	cerise	</item>
+        <item>	cerulean	</item>
+        <item>	charcoal	</item>
+        <item>	chartreuse	</item>
+        <item>	chocolate	</item>
+        <item>	cinnamon	</item>
+        <item>	color	</item>
+        <item>	complementary	</item>
+        <item>	copper	</item>
+        <item>	coral	</item>
+        <item>	cream	</item>
+        <item>	crimson	</item>
+        <item>	cyan	</item>
+        <item>	dark	</item>
+        <item>	denim	</item>
+        <item>	desert sand	</item>
+        <item>	ebony	</item>
+        <item>	ecru	</item>
+        <item>	eggplant	</item>
+        <item>	emerald	</item>
+        <item>	forest green	</item>
+        <item>	fuchsia	</item>
+        <item>	gold	</item>
+        <item>	goldenrod	</item>
+        <item>	gray	</item>
+        <item>	green	</item>
+        <item>	grey	</item>
+        <item>	hot pink	</item>
+        <item>	hue	</item>
+        <item>	indigo	</item>
+        <item>	ivory	</item>
+        <item>	jade	</item>
+        <item>	jet	</item>
+        <item>	jungle green	</item>
+        <item>	kelly green	</item>
+        <item>	khaki	</item>
+        <item>	lavender	</item>
+        <item>	lemon	</item>
+        <item>	light	</item>
+        <item>	lilac	</item>
+        <item>	lime	</item>
+        <item>	magenta	</item>
+        <item>	mahogany	</item>
+        <item>	maroon	</item>
+        <item>	mauve	</item>
+        <item>	mustard	</item>
+        <item>	navy blue	</item>
+        <item>	ocher	</item>
+        <item>	olive	</item>
+        <item>	orange	</item>
+        <item>	orchid	</item>
+        <item>	pale	</item>
+        <item>	pastel	</item>
+        <item>	peach	</item>
+        <item>	periwinkle	</item>
+        <item>	persimmon	</item>
+        <item>	pewter	</item>
+        <item>	pink	</item>
+        <item>	primary	</item>
+        <item>	puce	</item>
+        <item>	pumpkin	</item>
+        <item>	purple	</item>
+        <item>	rainbow	</item>
+        <item>	red	</item>
+        <item>	rose	</item>
+        <item>	ruby	</item>
+        <item>	russet	</item>
+        <item>	rust	</item>
+        <item>	saffron	</item>
+        <item>	salmon	</item>
+        <item>	sapphire	</item>
+        <item>	scarlet	</item>
+        <item>	sea green	</item>
+        <item>	secondary	</item>
+        <item>	sepia	</item>
+        <item>	shade	</item>
+        <item>	shamrock	</item>
+        <item>	sienna	</item>
+        <item>	silver	</item>
+        <item>	spectrum	</item>
+        <item>	slate	</item>
+        <item>	steel blue	</item>
+        <item>	tan	</item>
+        <item>	tangerine	</item>
+        <item>	taupe	</item>
+        <item>	teal	</item>
+        <item>	terracotta	</item>
+        <item>	thistle	</item>
+        <item>	tint	</item>
+        <item>	tomato	</item>
+        <item>	topaz	</item>
+        <item>	turquoise	</item>
+        <item>	ultramarine	</item>
+        <item>	umber	</item>
+        <item>	vermilion	</item>
+        <item>	violet	</item>
+        <item>	viridian	</item>
+        <item>	wheat	</item>
+        <item>	white	</item>
+        <item>	wisteria	</item>
+        <item>	yellow	</item>
 
 
+
+    </string-array>
 
 
 
