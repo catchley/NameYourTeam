@@ -3,10 +3,15 @@ package com.chris.atchley.nameyourteam;
 import android.content.res.Resources;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.CheckBox;
 import android.widget.TextView;
+
+import com.google.android.gms.ads.AdListener;
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.InterstitialAd;
 
 import java.util.Random;
 
@@ -22,12 +27,26 @@ public class MainActivity extends AppCompatActivity {
     String thirdWord;
     String color;
 
+    int adCounter = 0;
+    private InterstitialAd mInterstitialAd;
 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        mInterstitialAd = new InterstitialAd(this);
+        mInterstitialAd.setAdUnitId("ca-app-pub-3940256099942544/1033173712");
+        mInterstitialAd.loadAd(new AdRequest.Builder().build());
+
+        mInterstitialAd.setAdListener(new AdListener() {
+            @Override
+            public void onAdClosed() {
+                // Load the next interstitial.
+                mInterstitialAd.loadAd(new AdRequest.Builder().build());
+            }
+
+        });
 
 
         Resources res = getResources();
@@ -36,6 +55,7 @@ public class MainActivity extends AppCompatActivity {
         final String[] animals = res.getStringArray(R.array.animals);
         final String[] objects = res.getStringArray(R.array.objects);
         final String[] colors = res.getStringArray(R.array.colors);
+
 
         mTwoWordObjectButton = (Button) findViewById(R.id.twoWordObject);
         mThreeWordObjectButton = (Button) findViewById(R.id.threeWordObject);
@@ -52,6 +72,14 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
 
+                if (adCounter >= 15) {
+                    if (mInterstitialAd.isLoaded()) {
+                        mInterstitialAd.show();
+                        adCounter = 0;
+                    } else {
+                        Log.d("TAG", "The interstitial wasn't loaded yet.");
+                    }
+                }
 
                 if(mAnimalCheckBox.isChecked()) {
                     firstWord = adjectives[new Random().nextInt(adjectives.length)];
@@ -70,6 +98,7 @@ public class MainActivity extends AppCompatActivity {
                 }
 
                 mNameTextView.setAllCaps(true);
+                adCounter++;
 
             }
         });
@@ -95,6 +124,7 @@ public class MainActivity extends AppCompatActivity {
                     mNameTextView.setText(firstWord + " " + secondWord + " " + thirdWord + "s");
                 }
                 mNameTextView.setAllCaps(true);
+                adCounter++;
 
             }
         });
