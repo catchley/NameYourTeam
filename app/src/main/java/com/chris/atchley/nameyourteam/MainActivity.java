@@ -165,6 +165,7 @@ public class MainActivity extends AppCompatActivity implements BillingProcessor.
 
     }
 
+
     @Override
     public void onProductPurchased(@NonNull String productId, @Nullable TransactionDetails details) {
 
